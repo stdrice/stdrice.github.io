@@ -17,6 +17,9 @@
                 vertical-align: middle; 
                 text-align: center; 
             }
+            .info {
+                display: inline;
+            }
           </style>
     </head>
 
@@ -25,7 +28,12 @@
             <i>s t d r i c e</i>
             <br>
             <br>
-            <img src="assets/images/1.png" width="300px" height="300px">
+            <img id="album-art" src="assets/images/1.png" width="300px" height="300px">
+            <br>
+            <span id="artist-name"></span> - 
+            <span id="song-name">
+                <a href="#" target="_blank"></a>
+            </span>
             <br>
             <br>
             <a href="me.html">me</a> ~ 
@@ -34,4 +42,51 @@
             <a href="webrings.html">webrings</a>
         </p>
     </body>
+    
+
+    <script>
+      async function fetchLastPlayedSong() {
+        const username = 'p3nguin-kun';
+        const apiKey = 'ab9a4832b685169977fac938981760df';
+        const url = `https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=${username}&api_key=${apiKey}&format=json`;
+    
+        try {
+          const response = await fetch(url);
+          const data = await response.json();
+          const tracks = data?.recenttracks?.track;
+          
+          if (!Array.isArray(tracks) || tracks.length === 0) {
+            throw new Error('No recent tracks found');
+          }
+    
+          const track = tracks[0];
+    
+          const albumArt = track.image?.[3]?.['#text'] || 'assets/images/1.png';
+          document.getElementById('album-art').src = albumArt;
+    
+          const songNameContainer = document.getElementById('song-name');
+          const songLink = songNameContainer?.querySelector('a');
+          if (songLink) {
+            songLink.textContent = track.name || 'Unknown Song';
+            songLink.href = track.url || '#';
+          }
+    
+          const artistNameElement = document.getElementById('artist-name');
+          if (artistNameElement) {
+            artistNameElement.textContent = track.artist?.['#text'] || 'Unknown Artist';
+          }
+        } catch (error) {
+          console.error('Error fetching song data:', error);
+          const songNameContainer = document.getElementById('song-name');
+          if (songNameContainer) {
+            songNameContainer.textContent = 'Error fetching song data';
+          }
+        }
+      }
+    
+      // Fetch song data on load
+      fetchLastPlayedSong();
+      // Refresh every 60 seconds
+      setInterval(fetchLastPlayedSong, 60000);
+    </script>
 </html>
