@@ -6,11 +6,8 @@
 html {
   font-family: "Inria Serif", serif, sans-serif;
   color: #ffffff;
+  background: url("assets/images/starbg2.gif");
   background-color: #000000;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
 }
 
 body {
