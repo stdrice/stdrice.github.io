@@ -8,6 +8,7 @@ html {
   color: #ffffff;
   background: url("assets/images/starbg2.gif");
   background-color: #000000;
+  cursor: url("assets/images/lol.cur"), auto;
 }
 
 body {
