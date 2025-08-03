@@ -52,28 +52,22 @@
         const username = 'p3nguin-kun';
         const apiKey = 'ab9a4832b685169977fac938981760df';
         const url = `https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=${username}&api_key=${apiKey}&format=json`;
-    
         try {
           const response = await fetch(url);
           const data = await response.json();
           const tracks = data?.recenttracks?.track;
-          
           if (!Array.isArray(tracks) || tracks.length === 0) {
             throw new Error('No recent tracks found');
           }
-    
           const track = tracks[0];
-    
           const albumArt = track.image?.[3]?.['#text'] || 'assets/images/1.png';
           document.getElementById('album-art').src = albumArt;
-    
           const songNameContainer = document.getElementById('song-name');
           const songLink = songNameContainer?.querySelector('a');
           if (songLink) {
             songLink.textContent = track.name || 'Unknown Song';
             songLink.href = track.url || '#';
           }
-    
           const artistNameElement = document.getElementById('artist-name');
           if (artistNameElement) {
             artistNameElement.textContent = track.artist?.['#text'] || 'Unknown Artist';
@@ -86,7 +80,6 @@
           }
         }
       }
-    
       // Fetch song data on load
       fetchLastPlayedSong();
       // Refresh every 60 seconds
