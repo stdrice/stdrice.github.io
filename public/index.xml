@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>stdrice</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on stdrice</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Apr 2025 22:47:24 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tanchjim Origin Review: 1DD IEM hay nhất?</title>
+      <link>http://localhost:1313/vi/tanchjim-origin/</link>
+      <pubDate>Fri, 25 Apr 2025 22:47:24 +0700</pubDate>
+      <guid>http://localhost:1313/vi/tanchjim-origin/</guid>
+      <description>&lt;p&gt;Trong thế giới tai nghe IEM đang “nhiễu loạn” với đủ kiểu tuning, filter, driver hybrid&amp;hellip; thì Tanchjim Origin chọn một con đường khác: đơn giản, tinh tế, và tập trung toàn lực vào trải nghiệm nghe. Chỉ một driver dynamic duy nhất, Origin không phô trương, không cầu kỳ nhưng lại mang đến chất âm trung tính, mượt mà và chi tiết đến bất ngờ.&lt;/p&gt;
+&lt;h1 id=&#34;thông-tin&#34;&gt;Thông tin&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Driver: 1DD&lt;/li&gt;
+&lt;li&gt;Được gửi bởi @cheesedustyvoxx không để viết bài này&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;nguồn-phát-sử-dụng&#34;&gt;Nguồn phát sử dụng&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Điện thoại: Sony Xperia XZ1&lt;/li&gt;
+&lt;li&gt;DAC/AMP: Tanchjim Luna Asano Tanch&lt;/li&gt;
+&lt;li&gt;Nguồn nhạc: local files, YouTube Music&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sau khi trải nghiệm thì mình thấy em Origin này có thể dùng với nguồn phát nào cũng được. Để trải nghiệm hoàn hảo hơn thì có thể sử dụng chính Tanchjim Luna của hãng.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Skip Counter Strike 2&#39;s Training Day</title>
+      <link>http://localhost:1313/posts/cs2-training-day/</link>
+      <pubDate>Wed, 05 Feb 2025 22:08:13 +0700</pubDate>
+      <guid>http://localhost:1313/posts/cs2-training-day/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Enable Developer Console&lt;/li&gt;
+&lt;li&gt;Type these commands&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sv_cheats 1;mp_maxrounds 1;mp_restartgame 1
+bot_kill
+&lt;/code&gt;&lt;/pre&gt;&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Done!&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Mitigate Brave</title>
+      <link>http://localhost:1313/posts/mitigate-brave/</link>
+      <pubDate>Wed, 05 Feb 2025 21:14:46 +0700</pubDate>
+      <guid>http://localhost:1313/posts/mitigate-brave/</guid>
+      <description>&lt;p&gt;Brave is a good privacy-centric browser with many interesting features. However, it still has something weird like Brave Rewards, Brave Ads, Leo, &amp;hellip; In this blog, I will show you how to mitigate Brave.&lt;/p&gt;
+&lt;h1 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#homepage&#34;&gt;Homepage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#settings&#34;&gt;Settings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#flags&#34;&gt;Flags&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#extensions&#34;&gt;Extensions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#some-tips&#34;&gt;Some tips&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;homepage&#34;&gt;Homepage&lt;/h1&gt;
+&lt;h2 id=&#34;background-image&#34;&gt;Background Image&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Show Sponsored Image: &lt;code&gt;Off&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;top-sites&#34;&gt;Top Sites&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Top Sites: &lt;code&gt;Off&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cards&#34;&gt;Cards&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Cards: &lt;code&gt;Off&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;settings&#34;&gt;Settings&lt;/h1&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;On startup: &lt;code&gt;Open the New Tab page&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;appearance&#34;&gt;Appearance&lt;/h2&gt;
+&lt;h3 id=&#34;toolbar&#34;&gt;Toolbar&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Show Brave News button: &lt;code&gt;Off&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Show Brave Wallet button: &lt;code&gt;Off&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Show autocomplete suggestions in address bar: &lt;code&gt;On&lt;/code&gt; (you can turn off it if you want)
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Top sites&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Browsing history&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Bookmarks&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Leo AI Assistant&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;shields&#34;&gt;Shields&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tracker &amp;amp; ads blocking: &lt;code&gt;Aggressive&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;privacy-and-security&#34;&gt;Privacy and security&lt;/h2&gt;
+&lt;h3 id=&#34;privacy-and-security-1&#34;&gt;Privacy and security&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Allow privacy-preserving product analytics (P1A): &lt;code&gt;Off&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Automatically send daily usage ping to Brave: &lt;code&gt;Off&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Automatically send diagnostic reports: &lt;code&gt;Off&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;brave-rewards&#34;&gt;Brave Rewards&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Show Brave Rewards icon in address bar: &lt;code&gt;Off&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;web3&#34;&gt;Web3&lt;/h2&gt;
+&lt;h3 id=&#34;wallet&#34;&gt;Wallet&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Default Ethereum wallet: &lt;code&gt;Extensions (no fallback)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Default Solana wallet: &lt;code&gt;Extensions (no fallback)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ipfs&#34;&gt;IPFS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Method to resolve IPFS resources: &lt;code&gt;Disabled&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;web3-domains&#34;&gt;Web3 Domains&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Resolve Unstoppable Domains domain names: &lt;code&gt;Disabled&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Resolve Ethereum Name Service (ENS) domain names: &lt;code&gt;Disabled&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Resolve Solana Name Service (SNS) domain names: &lt;code&gt;Disabled&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;leo&#34;&gt;Leo&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Show Leo icon in the sidebar: &lt;code&gt;Off&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;search-engine&#34;&gt;Search engine&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Normal Window: &lt;code&gt;DuckDuckGo&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Private Window: &lt;code&gt;DuckDuckGo&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Improve search suggestions: &lt;code&gt;Off&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;extensions&#34;&gt;Extensions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;WebTorrent: &lt;code&gt;Off&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Widevine: &lt;code&gt;On&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;autofill-and-passwords&#34;&gt;Autofill and passwords&lt;/h2&gt;
+&lt;h3 id=&#34;password-manager&#34;&gt;Password manager&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Offer to save passwords: &lt;code&gt;Off&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Sign in automatically: &lt;code&gt;Off&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;payment-methods&#34;&gt;Payment methods&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Save and fill payment methods: &lt;code&gt;Off&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Allow sites to check if you have payment methods saved: &lt;code&gt;Off&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;addresses-and-more&#34;&gt;Addresses and more&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Save and fill addresses: &lt;code&gt;Off&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Allow auto-fill in private windows: &lt;code&gt;Off&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages&#34;&gt;Languages&lt;/h2&gt;
+&lt;h3 id=&#34;spell-check&#34;&gt;Spell check&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Check for spelling errors when you type text on web pages: &lt;code&gt;Off&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;system&#34;&gt;System&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Continue running background apps when Brave is closed: &lt;code&gt;Off&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;brave-vpn&#34;&gt;Brave VPN&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Use WireGuard protocol in Brave VPN: &lt;code&gt;Off&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;flags&#34;&gt;Flags&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Launch Brave Ads as an in-process service (&lt;code&gt;brave://flags/#brave-ads-should-launch-brave-ads-as-an-in-process-service&lt;/code&gt;): &lt;code&gt;Disabled&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Should always run Brave Ads service (&lt;code&gt;brave://flags/#brave-ads-should-always-run-brave-ads-service&lt;/code&gt;): &lt;code&gt;Disabled&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Allow Brave Ads to fallback from native to custom push notifications (&lt;code&gt;brave://flags/#brave-ads-allowed-to-fallback-to-custom-push-notification-ads&lt;/code&gt;): &lt;code&gt;Disabled&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Brave News prompts on New Tab Page (&lt;code&gt;brave://flags/#brave-news-peek&lt;/code&gt;): &lt;code&gt;Disabled&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Enable Brave Wallet (&lt;code&gt;brave://flags/#native-brave-wallet&lt;/code&gt;): &lt;code&gt;Disabled&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Enable NFT pinning (&lt;code&gt;brave://flags/#enable-nft-pinning&lt;/code&gt;): &lt;code&gt;Disabled&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Enable Brave Rewards VBAT notices (&lt;code&gt;brave://flags/#brave-rewards-vbat-notice&lt;/code&gt;): &lt;code&gt;Disabled&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Enable Gemini for Brave Rewards (&lt;code&gt;brave://flags/#brave-rewards-gemini&lt;/code&gt;): &lt;code&gt;Disabled&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Brave AI Chat (&lt;code&gt;brave://flags/#brave-ai-chat&lt;/code&gt;): &lt;code&gt;Disabled&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Enable experimental Brave VPN (&lt;code&gt;brave://flags/#brave-vpn&lt;/code&gt;): &lt;code&gt;Disabled&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Enable DoH for Brave VPN (&lt;code&gt;brave://flags/#brave-vpn-dns&lt;/code&gt;): &lt;code&gt;Disabled&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;SafeBrowsing (&lt;code&gt;brave://flags/#brave-safe-browsing&lt;/code&gt;): &lt;code&gt;Disabled&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Enable Brave Super Referral (&lt;code&gt;brave://flags/#brave-super-referral&lt;/code&gt;): &lt;code&gt;Disabled&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;extensions-1&#34;&gt;Extensions&lt;/h1&gt;
+&lt;p&gt;This is optional, you can install it if you want.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Truthear Gate Review: Người kế nhiệm Hola?</title>
+      <link>http://localhost:1313/vi/truthear-gate/</link>
+      <pubDate>Wed, 18 Sep 2024 22:30:14 +0700</pubDate>
+      <guid>http://localhost:1313/vi/truthear-gate/</guid>
+      <description>&lt;p&gt;Truthear Hola từng là một cái tên rất được yêu thích trong phân khúc tai nghe giá rẻ, nhờ chất âm U-shape dễ nghe và chất lượng tốt trong tầm giá. Tuy nhiên, Hola đã bị Truthear khai tử, khiến nhiều người phải tìm kiếm lựa chọn thay thế khác.&lt;/p&gt;
+&lt;p&gt;Và Truthear Gate đã xuất hiện, là bản kế nhiệm của Hola, như một &amp;ldquo;cổng chào&amp;rdquo; đón nhận người chơi audio mới. Vậy nó có thể làm tốt vai trò “người kế nhiệm” Hola không, hoặc ít nhất là một lựa chọn thay thế hợp lý? Dưới đây là cảm nhận của mình về Truthear Gate.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Truthear Hexa Review: Chất âm vượt tầm giá</title>
+      <link>http://localhost:1313/vi/truthear-hexa/</link>
+      <pubDate>Sun, 01 Sep 2024 22:21:58 +0700</pubDate>
+      <guid>http://localhost:1313/vi/truthear-hexa/</guid>
+      <description>&lt;p&gt;Trong một rừng IEM đang ngày càng bão hòa bởi V-shape hay thiên hướng Harman thì Truthear Hexa chính là làn gió mới. Không màu mè, không đẩy dải nào lên quá cao, Hexa được tinh chỉnh theo hướng cân bằng, trung tính, phù hợp cho những ai muốn thưởng thức âm nhạc một cách chân thật.
+Vậy Hexa có thật sự là “con bài chiến lược” của Truthear trong phân khúc entry? Dưới đây là những chia sẻ của mình về Truthear Hexa.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Review Moondrop Chu 2</title>
+      <link>http://localhost:1313/vi/moondrop-chu-2/</link>
+      <pubDate>Wed, 21 Aug 2024 22:18:45 +0700</pubDate>
+      <guid>http://localhost:1313/vi/moondrop-chu-2/</guid>
+      <description>&lt;p&gt;Mình mua Chu 2 vào tháng 2 2024 nhưng giờ mới có dịp để review, mong bài review này giúp ích cho bạn trước khi mua.&lt;/p&gt;
+&lt;h1 id=&#34;tldr&#34;&gt;tl;dr&lt;/h1&gt;
+&lt;h2 id=&#34;pros&#34;&gt;Pros&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Thương hiệu lớn (trong giới chi-fi), giá rẻ&lt;/li&gt;
+&lt;li&gt;Build full kim loại, sơn bền, không còn bị bong&lt;/li&gt;
+&lt;li&gt;Thay được dây so với Chu&lt;/li&gt;
+&lt;li&gt;Dễ kéo, có thể dùng bất cứ dongle nào kéo hoặc cắm chay cũng ổn&lt;/li&gt;
+&lt;li&gt;Cảm giác đeo thoải mái&lt;/li&gt;
+&lt;li&gt;Màu âm hơi V-shape có thể nghe tạp&lt;/li&gt;
+&lt;li&gt;Kĩ thuật tốt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cons&#34;&gt;Cons&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Phụ kiện đơn giản, không đi kèm với Spring Tips&lt;/li&gt;
+&lt;li&gt;Ống dẫn âm dễ bị oxy hóa. Filter gốc dễ bẩn, gây imbalance&lt;/li&gt;
+&lt;li&gt;Mid hơi lùi, lượng bass hơi nhiều so với một số người&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;thông-tin&#34;&gt;Thông tin&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Driver: 1DD&lt;/li&gt;
+&lt;li&gt;Giá: $18 (~450.000 VND)&lt;/li&gt;
+&lt;li&gt;Nơi mua: &lt;a href=&#34;http://bit.ly/4dRRFHU&#34;&gt;NC Store&lt;/a&gt; (not affiliated)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;mở-hộp&#34;&gt;Mở hộp&lt;/h1&gt;
+&lt;p&gt;Hộp của Chu 2 khá nhỏ và đơn giản, mặt trước có in hình gái alime đen trắng (có tới 3 art khác nhau tuỳ lô/phiên bản), đằng sau có in graph của Chu Chu và 1 vài thông số cấu hình. Bên trong hộp có:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

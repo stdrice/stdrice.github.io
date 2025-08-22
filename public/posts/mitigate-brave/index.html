@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Mitigate Brave | stdrice</title>
+<meta name="keywords" content="browser, privacy">
+<meta name="description" content="Brave is a good privacy-centric browser with many interesting features. However, it still has something weird like Brave Rewards, Brave Ads, Leo, &hellip; In this blog, I will show you how to mitigate Brave.
+Table of Contents
+
+Homepage
+Settings
+Flags
+Extensions
+Some tips
+
+Homepage
+Background Image
+
+Show Sponsored Image: Off
+
+Top Sites
+
+Top Sites: Off
+
+Cards
+
+Cards: Off
+
+Settings
+Get started
+
+On startup: Open the New Tab page
+
+Appearance
+Toolbar
+
+Show Brave News button: Off
+Show Brave Wallet button: Off
+Show autocomplete suggestions in address bar: On (you can turn off it if you want)
+
+ Top sites
+ Browsing history
+ Bookmarks
+ Leo AI Assistant
+
+
+
+Shields
+
+Tracker &amp; ads blocking: Aggressive
+
+Privacy and security
+Privacy and security
+
+Allow privacy-preserving product analytics (P1A): Off
+Automatically send daily usage ping to Brave: Off
+Automatically send diagnostic reports: Off
+
+Brave Rewards
+
+Show Brave Rewards icon in address bar: Off
+
+Web3
+Wallet
+
+Default Ethereum wallet: Extensions (no fallback)
+Default Solana wallet: Extensions (no fallback)
+
+IPFS
+
+Method to resolve IPFS resources: Disabled
+
+Web3 Domains
+
+Resolve Unstoppable Domains domain names: Disabled
+Resolve Ethereum Name Service (ENS) domain names: Disabled
+Resolve Solana Name Service (SNS) domain names: Disabled
+
+Leo
+
+Show Leo icon in the sidebar: Off
+
+Search engine
+
+Normal Window: DuckDuckGo
+Private Window: DuckDuckGo
+Improve search suggestions: Off
+
+Extensions
+
+WebTorrent: Off
+Widevine: On
+
+Autofill and passwords
+Password manager
+
+Offer to save passwords: Off
+Sign in automatically: Off
+
+Payment methods
+
+Save and fill payment methods: Off
+Allow sites to check if you have payment methods saved: Off
+
+Addresses and more
+
+Save and fill addresses: Off
+
+Other
+
+Allow auto-fill in private windows: Off
+
+Languages
+Spell check
+
+Check for spelling errors when you type text on web pages: Off
+
+System
+
+Continue running background apps when Brave is closed: Off
+
+Brave VPN
+
+Use WireGuard protocol in Brave VPN: Off
+
+Flags
+
+Launch Brave Ads as an in-process service (brave://flags/#brave-ads-should-launch-brave-ads-as-an-in-process-service): Disabled
+Should always run Brave Ads service (brave://flags/#brave-ads-should-always-run-brave-ads-service): Disabled
+Allow Brave Ads to fallback from native to custom push notifications (brave://flags/#brave-ads-allowed-to-fallback-to-custom-push-notification-ads): Disabled
+Brave News prompts on New Tab Page (brave://flags/#brave-news-peek): Disabled
+Enable Brave Wallet (brave://flags/#native-brave-wallet): Disabled
+Enable NFT pinning (brave://flags/#enable-nft-pinning): Disabled
+Enable Brave Rewards VBAT notices (brave://flags/#brave-rewards-vbat-notice): Disabled
+Enable Gemini for Brave Rewards (brave://flags/#brave-rewards-gemini): Disabled
+Brave AI Chat (brave://flags/#brave-ai-chat): Disabled
+Enable experimental Brave VPN (brave://flags/#brave-vpn): Disabled
+Enable DoH for Brave VPN (brave://flags/#brave-vpn-dns): Disabled
+SafeBrowsing (brave://flags/#brave-safe-browsing): Disabled
+Enable Brave Super Referral (brave://flags/#brave-super-referral): Disabled
+
+Extensions
+This is optional, you can install it if you want.">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/posts/mitigate-brave/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.8fe10233a706bc87f2e08b3cf97b8bd4c0a80f10675a143675d59212121037c0.css" integrity="sha256-j&#43;ECM6cGvIfy4Is8&#43;XuL1MCoDxBnWhQ2ddWSEhIQN8A=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/posts/mitigate-brave/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="stdrice (Alt + H)">stdrice</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/" title="Home">
+                    <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/about/" title="About Me">
+                    <span>About Me</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/posts/" title="Posts">
+                    <span>Posts</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/vi/" title="Viet">
+                    <span>Viet</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Mitigate Brave
+    </h1>
+    <div class="post-meta"><span title='2025-02-05 21:14:46 +0700 +07'>February 5, 2025</span>
+
+</div>
+  </header> 
+<figure class="entry-cover">
+        <img loading="eager" src="https://lukesmith.xyz/pix/leshilllion.png" alt="">
+        
+</figure><div class="toc">
+    <details >
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table of Contents</span>
+        </summary>
+
+        <div class="inner"><ul>
+                <li>
+                    <a href="#table-of-contents" aria-label="Table of Contents">Table of Contents</a></li>
+                <li>
+                    <a href="#homepage" aria-label="Homepage">Homepage</a><ul>
+                        
+                <li>
+                    <a href="#background-image" aria-label="Background Image">Background Image</a></li>
+                <li>
+                    <a href="#top-sites" aria-label="Top Sites">Top Sites</a></li>
+                <li>
+                    <a href="#cards" aria-label="Cards">Cards</a></li></ul>
+                </li>
+                <li>
+                    <a href="#settings" aria-label="Settings">Settings</a><ul>
+                        
+                <li>
+                    <a href="#get-started" aria-label="Get started">Get started</a></li>
+                <li>
+                    <a href="#appearance" aria-label="Appearance">Appearance</a><ul>
+                        
+                <li>
+                    <a href="#toolbar" aria-label="Toolbar">Toolbar</a></li></ul>
+                </li>
+                <li>
+                    <a href="#shields" aria-label="Shields">Shields</a></li>
+                <li>
+                    <a href="#privacy-and-security" aria-label="Privacy and security">Privacy and security</a><ul>
+                        
+                <li>
+                    <a href="#privacy-and-security-1" aria-label="Privacy and security">Privacy and security</a></li></ul>
+                </li>
+                <li>
+                    <a href="#brave-rewards" aria-label="Brave Rewards">Brave Rewards</a></li>
+                <li>
+                    <a href="#web3" aria-label="Web3">Web3</a><ul>
+                        
+                <li>
+                    <a href="#wallet" aria-label="Wallet">Wallet</a></li>
+                <li>
+                    <a href="#ipfs" aria-label="IPFS">IPFS</a></li>
+                <li>
+                    <a href="#web3-domains" aria-label="Web3 Domains">Web3 Domains</a></li></ul>
+                </li>
+                <li>
+                    <a href="#leo" aria-label="Leo">Leo</a></li>
+                <li>
+                    <a href="#search-engine" aria-label="Search engine">Search engine</a></li>
+                <li>
+                    <a href="#extensions" aria-label="Extensions">Extensions</a></li>
+                <li>
+                    <a href="#autofill-and-passwords" aria-label="Autofill and passwords">Autofill and passwords</a><ul>
+                        
+                <li>
+                    <a href="#password-manager" aria-label="Password manager">Password manager</a></li>
+                <li>
+                    <a href="#payment-methods" aria-label="Payment methods">Payment methods</a></li>
+                <li>
+                    <a href="#addresses-and-more" aria-label="Addresses and more">Addresses and more</a></li>
+                <li>
+                    <a href="#other" aria-label="Other">Other</a></li></ul>
+                </li>
+                <li>
+                    <a href="#languages" aria-label="Languages">Languages</a><ul>
+                        
+                <li>
+                    <a href="#spell-check" aria-label="Spell check">Spell check</a></li></ul>
+                </li>
+                <li>
+                    <a href="#system" aria-label="System">System</a><ul>
+                        
+                <li>
+                    <a href="#brave-vpn" aria-label="Brave VPN">Brave VPN</a></li></ul>
+                </li></ul>
+                </li>
+                <li>
+                    <a href="#flags" aria-label="Flags">Flags</a></li>
+                <li>
+                    <a href="#extensions-1" aria-label="Extensions">Extensions</a></li>
+                <li>
+                    <a href="#some-tips" aria-label="Some tips">Some tips</a>
+                </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><p>Brave is a good privacy-centric browser with many interesting features. However, it still has something weird like Brave Rewards, Brave Ads, Leo, &hellip; In this blog, I will show you how to mitigate Brave.</p>
+<h1 id="table-of-contents">Table of Contents<a hidden class="anchor" aria-hidden="true" href="#table-of-contents">#</a></h1>
+<ul>
+<li><a href="#homepage">Homepage</a></li>
+<li><a href="#settings">Settings</a></li>
+<li><a href="#flags">Flags</a></li>
+<li><a href="#extensions">Extensions</a></li>
+<li><a href="#some-tips">Some tips</a></li>
+</ul>
+<h1 id="homepage">Homepage<a hidden class="anchor" aria-hidden="true" href="#homepage">#</a></h1>
+<h2 id="background-image">Background Image<a hidden class="anchor" aria-hidden="true" href="#background-image">#</a></h2>
+<ul>
+<li>Show Sponsored Image: <code>Off</code></li>
+</ul>
+<h2 id="top-sites">Top Sites<a hidden class="anchor" aria-hidden="true" href="#top-sites">#</a></h2>
+<ul>
+<li>Top Sites: <code>Off</code></li>
+</ul>
+<h2 id="cards">Cards<a hidden class="anchor" aria-hidden="true" href="#cards">#</a></h2>
+<ul>
+<li>Cards: <code>Off</code></li>
+</ul>
+<h1 id="settings">Settings<a hidden class="anchor" aria-hidden="true" href="#settings">#</a></h1>
+<h2 id="get-started">Get started<a hidden class="anchor" aria-hidden="true" href="#get-started">#</a></h2>
+<ul>
+<li>On startup: <code>Open the New Tab page</code></li>
+</ul>
+<h2 id="appearance">Appearance<a hidden class="anchor" aria-hidden="true" href="#appearance">#</a></h2>
+<h3 id="toolbar">Toolbar<a hidden class="anchor" aria-hidden="true" href="#toolbar">#</a></h3>
+<ul>
+<li>Show Brave News button: <code>Off</code></li>
+<li>Show Brave Wallet button: <code>Off</code></li>
+<li>Show autocomplete suggestions in address bar: <code>On</code> (you can turn off it if you want)
+<ul>
+<li><input checked="" disabled="" type="checkbox"> Top sites</li>
+<li><input checked="" disabled="" type="checkbox"> Browsing history</li>
+<li><input checked="" disabled="" type="checkbox"> Bookmarks</li>
+<li><input disabled="" type="checkbox"> Leo AI Assistant</li>
+</ul>
+</li>
+</ul>
+<h2 id="shields">Shields<a hidden class="anchor" aria-hidden="true" href="#shields">#</a></h2>
+<ul>
+<li>Tracker &amp; ads blocking: <code>Aggressive</code></li>
+</ul>
+<h2 id="privacy-and-security">Privacy and security<a hidden class="anchor" aria-hidden="true" href="#privacy-and-security">#</a></h2>
+<h3 id="privacy-and-security-1">Privacy and security<a hidden class="anchor" aria-hidden="true" href="#privacy-and-security-1">#</a></h3>
+<ul>
+<li>Allow privacy-preserving product analytics (P1A): <code>Off</code></li>
+<li>Automatically send daily usage ping to Brave: <code>Off</code></li>
+<li>Automatically send diagnostic reports: <code>Off</code></li>
+</ul>
+<h2 id="brave-rewards">Brave Rewards<a hidden class="anchor" aria-hidden="true" href="#brave-rewards">#</a></h2>
+<ul>
+<li>Show Brave Rewards icon in address bar: <code>Off</code></li>
+</ul>
+<h2 id="web3">Web3<a hidden class="anchor" aria-hidden="true" href="#web3">#</a></h2>
+<h3 id="wallet">Wallet<a hidden class="anchor" aria-hidden="true" href="#wallet">#</a></h3>
+<ul>
+<li>Default Ethereum wallet: <code>Extensions (no fallback)</code></li>
+<li>Default Solana wallet: <code>Extensions (no fallback)</code></li>
+</ul>
+<h3 id="ipfs">IPFS<a hidden class="anchor" aria-hidden="true" href="#ipfs">#</a></h3>
+<ul>
+<li>Method to resolve IPFS resources: <code>Disabled</code></li>
+</ul>
+<h3 id="web3-domains">Web3 Domains<a hidden class="anchor" aria-hidden="true" href="#web3-domains">#</a></h3>
+<ul>
+<li>Resolve Unstoppable Domains domain names: <code>Disabled</code></li>
+<li>Resolve Ethereum Name Service (ENS) domain names: <code>Disabled</code></li>
+<li>Resolve Solana Name Service (SNS) domain names: <code>Disabled</code></li>
+</ul>
+<h2 id="leo">Leo<a hidden class="anchor" aria-hidden="true" href="#leo">#</a></h2>
+<ul>
+<li>Show Leo icon in the sidebar: <code>Off</code></li>
+</ul>
+<h2 id="search-engine">Search engine<a hidden class="anchor" aria-hidden="true" href="#search-engine">#</a></h2>
+<ul>
+<li>Normal Window: <code>DuckDuckGo</code></li>
+<li>Private Window: <code>DuckDuckGo</code></li>
+<li>Improve search suggestions: <code>Off</code></li>
+</ul>
+<h2 id="extensions">Extensions<a hidden class="anchor" aria-hidden="true" href="#extensions">#</a></h2>
+<ul>
+<li>WebTorrent: <code>Off</code></li>
+<li>Widevine: <code>On</code></li>
+</ul>
+<h2 id="autofill-and-passwords">Autofill and passwords<a hidden class="anchor" aria-hidden="true" href="#autofill-and-passwords">#</a></h2>
+<h3 id="password-manager">Password manager<a hidden class="anchor" aria-hidden="true" href="#password-manager">#</a></h3>
+<ul>
+<li>Offer to save passwords: <code>Off</code></li>
+<li>Sign in automatically: <code>Off</code></li>
+</ul>
+<h3 id="payment-methods">Payment methods<a hidden class="anchor" aria-hidden="true" href="#payment-methods">#</a></h3>
+<ul>
+<li>Save and fill payment methods: <code>Off</code></li>
+<li>Allow sites to check if you have payment methods saved: <code>Off</code></li>
+</ul>
+<h3 id="addresses-and-more">Addresses and more<a hidden class="anchor" aria-hidden="true" href="#addresses-and-more">#</a></h3>
+<ul>
+<li>Save and fill addresses: <code>Off</code></li>
+</ul>
+<h3 id="other">Other<a hidden class="anchor" aria-hidden="true" href="#other">#</a></h3>
+<ul>
+<li>Allow auto-fill in private windows: <code>Off</code></li>
+</ul>
+<h2 id="languages">Languages<a hidden class="anchor" aria-hidden="true" href="#languages">#</a></h2>
+<h3 id="spell-check">Spell check<a hidden class="anchor" aria-hidden="true" href="#spell-check">#</a></h3>
+<ul>
+<li>Check for spelling errors when you type text on web pages: <code>Off</code></li>
+</ul>
+<h2 id="system">System<a hidden class="anchor" aria-hidden="true" href="#system">#</a></h2>
+<ul>
+<li>Continue running background apps when Brave is closed: <code>Off</code></li>
+</ul>
+<h3 id="brave-vpn">Brave VPN<a hidden class="anchor" aria-hidden="true" href="#brave-vpn">#</a></h3>
+<ul>
+<li>Use WireGuard protocol in Brave VPN: <code>Off</code></li>
+</ul>
+<h1 id="flags">Flags<a hidden class="anchor" aria-hidden="true" href="#flags">#</a></h1>
+<ul>
+<li>Launch Brave Ads as an in-process service (<code>brave://flags/#brave-ads-should-launch-brave-ads-as-an-in-process-service</code>): <code>Disabled</code></li>
+<li>Should always run Brave Ads service (<code>brave://flags/#brave-ads-should-always-run-brave-ads-service</code>): <code>Disabled</code></li>
+<li>Allow Brave Ads to fallback from native to custom push notifications (<code>brave://flags/#brave-ads-allowed-to-fallback-to-custom-push-notification-ads</code>): <code>Disabled</code></li>
+<li>Brave News prompts on New Tab Page (<code>brave://flags/#brave-news-peek</code>): <code>Disabled</code></li>
+<li>Enable Brave Wallet (<code>brave://flags/#native-brave-wallet</code>): <code>Disabled</code></li>
+<li>Enable NFT pinning (<code>brave://flags/#enable-nft-pinning</code>): <code>Disabled</code></li>
+<li>Enable Brave Rewards VBAT notices (<code>brave://flags/#brave-rewards-vbat-notice</code>): <code>Disabled</code></li>
+<li>Enable Gemini for Brave Rewards (<code>brave://flags/#brave-rewards-gemini</code>): <code>Disabled</code></li>
+<li>Brave AI Chat (<code>brave://flags/#brave-ai-chat</code>): <code>Disabled</code></li>
+<li>Enable experimental Brave VPN (<code>brave://flags/#brave-vpn</code>): <code>Disabled</code></li>
+<li>Enable DoH for Brave VPN (<code>brave://flags/#brave-vpn-dns</code>): <code>Disabled</code></li>
+<li>SafeBrowsing (<code>brave://flags/#brave-safe-browsing</code>): <code>Disabled</code></li>
+<li>Enable Brave Super Referral (<code>brave://flags/#brave-super-referral</code>): <code>Disabled</code></li>
+</ul>
+<h1 id="extensions-1">Extensions<a hidden class="anchor" aria-hidden="true" href="#extensions-1">#</a></h1>
+<p>This is optional, you can install it if you want.</p>
+<ul>
+<li><a href="https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm">uBlock Origin</a></li>
+<li><a href="https://chromewebstore.google.com/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci">Search by Image</a></li>
+<li><a href="https://chromewebstore.google.com/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao">Web Archives</a></li>
+<li><a href="https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone">SponsorBlock for YouTube</a></li>
+<li><a href="https://chromewebstore.google.com/detail/old-reddit-redirect/dneaehbmnbhcippjikoajpoabadpodje">Old Reddit Redirect</a></li>
+<li><a href="https://chromewebstore.google.com/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab">Imagus</a></li>
+</ul>
+<h1 id="some-tips">Some tips<a hidden class="anchor" aria-hidden="true" href="#some-tips">#</a></h1>
+<ul>
+<li>Don&rsquo;t use Brave Rewards, Brave News, Brave Wallet, Brave Sync, Leo, &hellip;</li>
+<li>Don&rsquo;t use any sponsored things</li>
+</ul>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="http://localhost:1313/tags/browser/">Browser</a></li>
+      <li><a href="http://localhost:1313/tags/privacy/">Privacy</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    <footer>
+    
+        <div style="display: grid; place-items: center; width: 100%; margin: 2rem 0;">
+    <a href="/" target="_blank">
+        <img src="/button.png" width="88" height="31">
+    </a>
+</div>
+
+    
+</footer>
+</body>
+
+</html>
