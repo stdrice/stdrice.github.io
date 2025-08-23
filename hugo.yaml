@@ -26,10 +26,6 @@ menu:
       name: "Viet"
       url: "/vi/"
       weight: 4
-    - identifier: search
-      name: "Search"
-      url: "/Search/"
-      weight: 5
 
 caches:
   images:
