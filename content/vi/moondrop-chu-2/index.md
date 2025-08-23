@@ -53,7 +53,7 @@ Treble nhiều năng lượng, vẫn giữ được những đặc điểm của
 
 Trong tầm giá này thì Chu 2 có kĩ thuật khá tốt. Âm trường khá rộng, thoáng, nhưng chưa có độ sâu. Chi tiết tốt, âm hình định vị và tách lớp ổn, nhưng nhiều nhạc cụ thì hơi rối.
 
-![graph](graph)
+![graph](graph.png)
 
 # Tổng kết
 Nói chung thì Moondrop Chu 2 khá ngon nếu đây là IEM đầu tiên bạn mua, hoặc bạn là người thích gái anime và nghe tạp, tuy nhiên còn 1 vài điểm cần lưu ý trước khi mua.
