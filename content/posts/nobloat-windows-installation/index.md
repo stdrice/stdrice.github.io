@@ -27,7 +27,7 @@ Btw, you can get these Windows editions here: [massgrave.dev](https://massgrave.
 
 # Installation
 - For LTSC: install like a normal Windows installation.
-- For Consumer: during setup, choose **English (World)** as the time/currency format. It won’t disable telemetry, but it reduces third-party ads. And remember to change the region after install.
+- For Consumer: during setup, choose **English (World)** as the time/currency format. It won’t disable telemetry or remove bloatware, but it reduces third-party ads. And remember to change the region after install.
 ![img](windows-english-world.jpg)
 
 # OOBE setup
