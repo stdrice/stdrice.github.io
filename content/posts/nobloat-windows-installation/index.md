@@ -111,7 +111,7 @@ After cleaning Windows, you’ll probably want to replace Microsoft’s built-in
 | **Browser**    | Microsoft Edge              | Firefox, LibreWolf, Brave                     |
 | **Office**     | Microsoft 365 (trial nags)  | LibreOffice, OnlyOffice                       |
 | **Media player** | Movies & TV / Groove Music | VLC, MPV, MPC-HC                              |
-| **Photos**     | Photos app (slow, ads)      | ImageGlass, nomacs                            |
+| **Photos**     | Photos app (slow, ads)      | ImageGlass, IrfanView, nomacs                   |
 | **Notepad**    | Notepad / WordPad           | Classic Notepad, Notepad++, Kate              |
 | **Compression** | Built-in zip (limited)     | 7-Zip, PeaZip                                 |
 | **App Store**  | Microsoft Store             | Chocolatey, Winget, Scoop (package managers)  |
