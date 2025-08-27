@@ -22,6 +22,7 @@ There are two editions I want to mention:
 
 - If your software runs fine on 21H2, go with **IoT LTSC**. Otherwise, stick with Consumer and debloat it manually.  
 - Personally, I avoid Windows 11 (basically a reskinned Windows 10). But if you don’t mind the UI, **Windows 11 IoT LTSC** is also an option.
+Btw, you can get these Windows editions here: [massgrave.dev](https://massgrave.dev/genuine-installation-media)
 
 # Installation
 - For LTSC: install like a normal Windows installation.
