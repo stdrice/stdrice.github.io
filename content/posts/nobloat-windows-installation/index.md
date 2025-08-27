@@ -44,8 +44,8 @@ Btw, you can get these Windows editions here: [massgrave.dev](https://massgrave.
 # Post-installation tweaks
 ## Basic
 Open **Settings**:
-- Go to "Apps -> Installed apps": uninstall apps that you don't need
-- Go to "Privacy & Security": disable all options in "Windows permissions"
+- Go to **Apps -> Installed apps**: uninstall apps that you don't need
+- Go to **Privacy & Security**: disable all options in "Windows permissions"
 
 Some apps can't be uninstalled, you can use these commands to remove them (Use Powershell Admin)
 ```
@@ -58,7 +58,7 @@ Get-AppxPackage *Microsoft.Tips* | Remove-AppxPackage       # Tips app
 For Microsoft Edge, you can't uninstall it in a normal way, but you can use this tool to remove it: [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge)
 
 ## Advanced
-Open Powershell (Admin) then type these commands (or just copy-paste if you are lazy) to disable some consumer features and disable all telemetry
+Open **Powershell (Admin)** then type these commands (or just copy-paste if you are lazy) to disable some consumer features and disable all telemetry
 ```
 # --- Registry Policies ---
 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\DataCollection" /v AllowTelemetry /t REG_DWORD /d 0 /f
