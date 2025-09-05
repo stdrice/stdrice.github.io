@@ -18,5 +18,4 @@ You can contact me using any services below:
 
 I'm also available on some platforms:
 - [GitHub](https://github.com/stdrice): to host my (personal) projects
-- [Last.fm](https://last.fm/user/p3nguin-kun): to track my horrible music taste
 - [Anilist](https://anilist.co/user/stdrice): to track my anime/manga list
