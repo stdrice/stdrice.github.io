@@ -9,11 +9,11 @@
 - Install `Hugo`, `git`
 - Clone this repo
 ```
-git clone https://github.com/stdrice/pages
+git clone https://github.com/stdrice/stdrice.github.io
 ```
 - Run locally
 ```
-cd pages
+cd stdrice.github.io
 hugo server
 ```
 - Create new post
