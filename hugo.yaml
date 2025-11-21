@@ -7,7 +7,6 @@ theme: ["PaperMod"]
 params:
   defaultTheme: auto
   ShowToc: true
-  ShowReadingTime: true
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
   disableThemeToggle: true
