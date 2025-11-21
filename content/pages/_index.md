@@ -1,4 +1,3 @@
 ---
 title: 'Pages'
-draft: false
 ---

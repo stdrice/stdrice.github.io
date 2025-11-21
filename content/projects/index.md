@@ -1,6 +1,5 @@
 ---
 title: 'Projects'
-draft: false
 ---
 
 # Some of my projects
