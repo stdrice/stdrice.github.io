@@ -14,7 +14,7 @@ You can contact me using any services below:
 - Discord: `stdrice_`
 
 I'm also available on some platforms:
-- [Codeberg](https://codeberg.org/stdrice): to host my (personal) projects
+- [GitHub](https://github.com/stdrice): to host my (personal) projects
 - [Anilist](https://anilist.co/user/stdrice): to track my anime/manga list
 
 # Some facts about me :D
@@ -30,7 +30,7 @@ I'm also available on some platforms:
 - In real life, my persona is quite different from how I appear online.
 
 ## Technology
-- I use **Arch Linux** as my main operating system. Here's my config: [dotfiles](https://codeberg.org/stdrice/dotfiles)
+- I use **Arch Linux** as my main operating system. I prefer LTS kernel and main repo packages to AUR because of stability
 - I stick to FOSS (Free and Open Source Software) and privacy-friendly/self-hosted tools whenever possible.
 - I'm not really a fan of **AI**.
 
