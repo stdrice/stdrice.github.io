@@ -23,7 +23,7 @@ I'm also available on some platforms:
 
 ## Music
 - I listen to multiple genres of music, but mostly Electronic, J-Pop and J-Rock.
-- My favorite artists are TUYU, Ado, YOASOBI, Skrillex, Fred Again.., Porter Robinson.
+- My favorite artists are TUYU, Ado, YOASOBI, Skrillex, Fred Again.., Porter Robinson, Nujabes, AZALI, Kobaryo, ak+q, ...
 
 ## Internet / Social
 - I don't use *mainstream* social media because I'm concerned about privacy, and the knowledge I learned from social media is very small. Someone once called me an ape for not using social media, lol.
