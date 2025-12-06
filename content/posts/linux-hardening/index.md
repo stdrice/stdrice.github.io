@@ -1,7 +1,7 @@
 ---
 title: "Linux Hardening"
 date: '2025-12-06T16:20:59+07:00'
-tags: []
+tags: [ "linux", "hardening", "privacy", "security" ]
 draft: false
 cover:
     image: ""
