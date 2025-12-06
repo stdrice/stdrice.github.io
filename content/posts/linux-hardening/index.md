@@ -88,7 +88,7 @@ If you use SSH:
 ```
 
 # DNS hardening
-I use dnscrypt-proxy. There are other options like DNS-over-HTTPS (DoH) and DNS-over-TLS (DoT), but I prefer DNSCrypt because it doesn't rely on the certificate authority model.
+I use **dnscrypt-proxy**. There are other options like DNS-over-HTTPS (DoH) and DNS-over-TLS (DoT), but I prefer DNSCrypt because it doesn't rely on the certificate authority model.
 ## Install
 ```bash
 # pacman -Sy dnscrypt-proxy
