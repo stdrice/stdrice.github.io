@@ -8,7 +8,7 @@ cover:
     responsiveImage: true
 ---
 
-This post lists the changes I make to an Arch Linux installation for privacy and security hardening. Most of the changes will work on any Linux distro that's reasonably up-to-date.
+This post lists the changes I make to a vanilla Arch Linux installation for privacy and security hardening. Most of the changes will work on any Linux distro that's reasonably up-to-date.
 
 # Choosing distro
 I use **Arch Linux** as my main Linux distro because:
