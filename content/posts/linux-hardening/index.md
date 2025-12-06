@@ -110,7 +110,7 @@ then:
 # systemctl restart systemd-resolved
 ```
 ## Config
-Read [this article on ArchWiki](https://wiki.archlinux.org/title/Dnscrypt-proxy#Configuration) for more info.
+Read [this page on ArchWiki](https://wiki.archlinux.org/title/Dnscrypt-proxy#Configuration) for more info.
 
 # `hosts` file
 `hosts` file is a text file that maps hostnames to IP addresses, and you can use it to block access to certain websites by redirecting them to a non-existent IP address. I use [Dan Pollock/someonewhocares's hosts](https://someonewhocares.org/hosts/) in this guide.
