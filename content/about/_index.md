@@ -30,7 +30,7 @@ I'm also available on some platforms:
 - In real life, my persona is quite different from how I appear online.
 
 ## Technology
-- I use **Arch Linux** as my main operating system. I prefer LTS kernel and main repo packages to AUR because of stability
+- I use **Arch Linux** as my main operating system. I only use Windows (LTSC, debloated and hardened) when needed.
 - I stick to FOSS (Free and Open Source Software) and privacy-friendly/self-hosted tools whenever possible.
 - I'm not really a fan of **AI**.
 
