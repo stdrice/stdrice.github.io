@@ -226,6 +226,21 @@ Lockdown Mode is Apple’s highest security feature, designed to protect against
 ## Why I don’t enable it
 Since I already apply the privacy and security measures above, Lockdown Mode isn’t necessary. It also disables file previews and breaks third-party browsers, which affects usability.
 
+# BFU and Why you should restart your phone regularly
+BFU (Before First Unlock) is the state your iPhone is in right after a reboot. In BFU, all your sensitive data is still fully encrypted and locked behind your passcode. Once you unlock the phone, it moves to AFU, where some keys stay in memory for convenience.
+Restarting brings the device back to BFU, clearing everything in memory. This helps remove temporary data, wipe any non-persistent exploits, and force all encryption keys to lock again. Restarting every few days is an easy way to keep the device in its safest state.
+In urgent situations, you can also force-restart your phone to instantly drop it back into BFU. This immediately locks all sensitive data, disables biometric unlock, and kills anything that was running in memory, basically putting the device into its hardest-to-break state.
+
+## How I make the restart progress more convenient
+- Open **Shortcuts** app
+- Create a shortcut named **"Restart"**
+- Add the **"Shut Down"** action
+- Set it to **Restart**
+- Open **Control Center**
+- Add **"Run Shortcut"**
+- Select **"Restart"** shortcut
+Now whenever you need to reboot, just pull down Control Center and tap **Restart**.
+
 # Recommended apps
 Because iOS doesn't have many fully open-source apps like Android, these are some alternatives that I find pretty good to use:
 - [Brave](https://brave.com/): Browser. I don't really like Brave, but this is only good option.
@@ -252,6 +267,7 @@ Because iOS doesn't have many fully open-source apps like Android, these are som
 ## Minimal attack surface 
 - Install minimal apps, remove unused apps.
 - Prefer offline or open‑source tools when possible.
+- Use PWA/Web apps instead of installed apps whenever possible.
 
 # Conclusion
 iPhones are already secure (?), but the defaults leave room for tracking and leaks. By doing following things above, you can make your phone as safe as possible.
