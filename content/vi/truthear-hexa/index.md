@@ -39,7 +39,7 @@ Bass của Hexa tập trung vào subbass, rumbly, phần mở rộng tốt, khô
 
 Mid rất sạch, sạch đến nỗi có thể nghe rõ nhạc cụ, giọng hát cũng như các chi tiết của bài nhạc rất rõ ràng, tách lớp và layering cực tốt. Mid sạch như vậy không có nghĩa nó mỏng. Giọng nam được thể hiện tốt, có độ gằn, cảm xúc. Giọng nữ lên khá cao, thanh thoát. Nhạc cụ được thể hiện rất tốt.
 
-Treble rất airy, thoáng đãng, có độ leng keng, giòn, phần mở rộng tốt, không bị harsh, tuy nhiên hơi sib nhẹ do peak ở 8kHz.
+Treble rất airy, thoáng đãng, phần mở rộng tốt, không bị harsh, tuy nhiên hơi thiếu độ sparkly.
 
 Điểm mạnh nhất của Hexa chắc chắn nằm ở phần kĩ thuật. Trong tầm giá dưới 2 triệu thì khó có em IEM nào đạt được kĩ thuật tốt như Truthear Hexa.
 
