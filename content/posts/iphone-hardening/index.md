@@ -241,6 +241,7 @@ In urgent situations, you can also force-restart your phone to instantly drop it
 - Open **Control Center**
 - Add **"Run Shortcut"**
 - Select **"Restart"** shortcut
+
 Now whenever you need to reboot, just pull down Control Center and tap **Restart**.
 
 # Recommended apps
