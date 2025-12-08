@@ -17,6 +17,7 @@ This site is a collection of all bookmarks that I used to save across multiple b
 - [jvscholz](https://youtube.com/@jvscholz)
 - [k4ahr](https://k4ahr.work)
 - [bihuynh78](https://bihuynh78.github.io)
+- [sizeof(cat)](https://sizeof.cat)
 
 # Media
 - [lucida.to](https://lucida.to), [doubledouble](https://doubledouble.top): rip music from streaming services
