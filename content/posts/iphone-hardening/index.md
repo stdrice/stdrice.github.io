@@ -228,7 +228,9 @@ Since I already apply the privacy and security measures above, Lockdown Mode isn
 
 # BFU and Why you should restart your phone regularly
 BFU (Before First Unlock) is the state your iPhone is in right after a reboot. In BFU, all your sensitive data is still fully encrypted and locked behind your passcode. Once you unlock the phone, it moves to AFU, where some keys stay in memory for convenience.
+
 Restarting brings the device back to BFU, clearing everything in memory. This helps remove temporary data, wipe any non-persistent exploits, and force all encryption keys to lock again. Restarting every few days is an easy way to keep the device in its safest state.
+
 In urgent situations, you can also force-restart your phone to instantly drop it back into BFU. This immediately locks all sensitive data, disables biometric unlock, and kills anything that was running in memory, basically putting the device into its hardest-to-break state.
 
 ## How I make the restart progress more convenient
