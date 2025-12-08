@@ -133,7 +133,7 @@ Disable Siri entirely if you do not use it.
 - Require Security Delay: **Always**
 
 ### Lockdown Mode
-- See [Lockdown Mode](#lockdown-mode) section
+- See [Lockdown Mode](#lockdown-mode-1) section
 
 ## Safari
 In case you need Safari for PWA apps
