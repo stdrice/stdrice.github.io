@@ -69,6 +69,16 @@ Remember to install **AppArmor** and re-generate Grub config:
 # grub-mkconfig -o /boot/grub/grub.cfg 
 ```
 
+# Secure Boot setup
+```bash
+# pacman -Sy sbctl
+# sbctl create-keys
+# sbctl enroll-keys -m
+# sbctl verify
+# sbctl sign [file listed on "sbctl verify"]
+```
+Reboot to BIOS and enable Secure Boot
+
 # Firewall
 I use UFW in this guide. UFW is simple, effective, and integrates well with systemd.
 ## Install and config
