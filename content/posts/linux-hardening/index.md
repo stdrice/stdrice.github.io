@@ -58,11 +58,15 @@ compression-algorithm = zstd
 - **Worse performance and compatibility**: Strict hardening options break some software and reduce performance, especially for desktop use, gaming, and virtualization.
 
 ## Kernel options 
-Instead of hardened kernel, I use kernel options. Add the following to `/etc/default/grub`:
+Instead of hardened kernel, I use kernel options:
+```
+apparmor=1 lsm=landlock,lockdown,yama,apparmor init_on_alloc=1 init_on_free=1 page_alloc.shuffle=1 slab_nomerge spec_store_bypass_disable=on spectre_v2=on l1tf=full,force randomize_kstack_offset=1 vsyscall=none
+```
+Add the following to `/etc/default/grub` if you use Grub:
 ```
 GRUB_CMDLINE_LINUX_DEFAULT="loglevel=3 apparmor=1 lsm=landlock,lockdown,yama,apparmor init_on_alloc=1 init_on_free=1 page_alloc.shuffle=1 slab_nomerge spec_store_bypass_disable=on spectre_v2=on l1tf=full,force randomize_kstack_offset=1 vsyscall=none"
 ```
-Remember to install **AppArmor** and re-generate Grub config:
+Remember to install **AppArmor** and re-generate Grub config (if you use Grub):
 ```bash
 # pacman -Sy apparmor
 # systemctl enable --now apparmor
