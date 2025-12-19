@@ -12,11 +12,11 @@ This post lists the changes I make to a vanilla Arch Linux installation for priv
 
 # Choosing distro
 I use **Arch Linux** as my main Linux distro because:
-- **Minimal**: Arch base is relatively small and minimal compared to "prebuilt" or "OOTB" distros like Fedora, Ubuntu or Linux Mint. This means I add only what I need instead of debloating or disabling what I don't.
+- **Minimal**: Arch base is relatively small and minimal compared to "prebuilt" or "OOTB" distros like Ubuntu or Linux Mint. This means I add only what I need instead of debloating or disabling what I don't.
 - **Latest software**: Arch ships with latest kernel, latest software, upstream security patches. I don't have to wait 6-12 months to be updated like Ubuntu or Mint.
 - **Full control**: When using Arch, I can use what software, services, kernel, ... I want, instead of using what shipped by default.
 
-Otherwise, you can use any Linux distros you want.
+Otherwise, you can use any Linux distros you want. Fedora is also a good option, it has Firewall, SELinux and AppArmor by default.
 
 # Disk configuration
 ## Partition
