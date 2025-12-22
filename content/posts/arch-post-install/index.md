@@ -1,7 +1,7 @@
 ---
 title: "Arch Linux Post-Installation Setup"
 date: '2025-12-22T15:59:39+07:00'
-tags: []
+tags: [ 'linux', 'archlinux' ]
 draft: false
 cover:
     image: ""
