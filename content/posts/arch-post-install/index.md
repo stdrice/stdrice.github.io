@@ -60,6 +60,14 @@ swap-priority = 100
 $ git clone https://aur.archlinux.org/yay-bin && cd yay-bin && makepkg -si
 ```
 
+# Fully functional Desktop Environment
+I use KDE Plasma as my main DE, PipeWire as audio server.
+```bash
+# pacman -S plasma sddm konsole dolphin kate korganizer kcalc ark mpv gwenview kamoso okular spectacle pipewire pipewire-pulse
+# systemctl enable sddm
+$ systemctl enable --user pipewire pipewire-pulse
+```
+
 # Wine
 ```bash
 # pacman -S wine winetricks
