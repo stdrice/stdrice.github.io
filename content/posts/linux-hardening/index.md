@@ -43,7 +43,7 @@ This mounts `/tmp` as in-memory storage and prevents many classes of attacks.
 ## (Optional) ZRAM
 Install:
 ```bash
-# pacman -Sy zram-generator
+# pacman -S zram-generator
 ```
 Example config of `/etc/systemd/zram-generator.conf`:
 ```
@@ -68,14 +68,14 @@ GRUB_CMDLINE_LINUX_DEFAULT="loglevel=3 apparmor=1 lsm=landlock,lockdown,yama,app
 ```
 Remember to install **AppArmor** and re-generate Grub config (if you use Grub):
 ```bash
-# pacman -Sy apparmor
+# pacman -S apparmor
 # systemctl enable --now apparmor
 # grub-mkconfig -o /boot/grub/grub.cfg 
 ```
 
 # Secure Boot setup
 ```bash
-# pacman -Sy sbctl
+# pacman -S sbctl
 # sbctl create-keys
 # sbctl enroll-keys -m
 # sbctl verify
@@ -87,7 +87,7 @@ Reboot to BIOS and enable Secure Boot
 I use UFW in this guide. UFW is simple, effective, and integrates well with systemd.
 ## Install and config
 ```bash
-# pacman -Sy ufw
+# pacman -S ufw
 # systemctl enable --now ufw
 # ufw default deny incoming
 # ufw default allow outgoing
@@ -105,7 +105,7 @@ If you use SSH:
 I use **dnscrypt-proxy**. There are other options like DNS-over-HTTPS (DoH) and DNS-over-TLS (DoT), but I prefer DNSCrypt because it doesn't rely on the certificate authority model.
 ## Install
 ```bash
-# pacman -Sy dnscrypt-proxy
+# pacman -S dnscrypt-proxy
 # systemctl enable --now dnscrypt-proxy
 ```
 
