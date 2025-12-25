@@ -89,7 +89,7 @@ For daily writing, I use a **Pilot Kakuno** as my daily driver pen. It’s light
 As a backup, I carry a cheap **Deli** ballpoint pen. It’s there for situations where the Kakuno can’t write properly, especially on certain surfaces or low-quality paper. Despite being cheap, it writes surprisingly smoothly and gets the job done when needed.
 
 ## Notebook
-I don’t really have much choice when it comes to notebooks, since I use my school’s notebook by default, but if I need to choose, I will choose Kokuyo notebooks and Field Notes.
+I don’t really have much choice when it comes to notebooks, since I use my school’s notebook by default, but if I need to choose, I will choose **Kokuyo notebooks** and **Field Notes**.
 
 # Wishlist
 - **Wacom CTL-472**: I want to use it as a replacement for both mouse and touchpad. It should be more ergonomic and flexible, especially for long study or work sessions.
