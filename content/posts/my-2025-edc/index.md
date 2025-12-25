@@ -4,7 +4,7 @@ date: '2025-12-25T13:17:49+07:00'
 tags: [ 'edc', 'tech' ]
 draft: false
 cover:
-    image: ""
+    image: "laptop.jpg"
     responsiveImage: true
 ---
 
