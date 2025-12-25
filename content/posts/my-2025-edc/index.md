@@ -65,7 +65,8 @@ I got this wallet from Shopee and have been using it for the past 2–3 years. I
 Listening to music is one of my hobbies, so I prefer quality over convenience. I usually use wired headphones/earphones instead of TWS.
 ## Earphones
 My main IEM and also my endgame is the **Truthear Hexa**. It has a neutral, studio-grade sound signature and feels very durable.
-I also use **Tanchjim Origin** and **Truthear Zero:RED**. They’re both excellent in their own ways, but when it comes to daily listening, the Hexa is still my top pick.
+
+I also use **Tanchjim Origin** (not mine) and **Truthear Zero:RED**. They’re both excellent in their own ways, but when it comes to daily listening, the Hexa is still my top pick.
 ![earphone1](earphone1.jpg)
 ![earphone2](earphone2.jpg)
 
