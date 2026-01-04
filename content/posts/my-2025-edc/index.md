@@ -9,7 +9,6 @@ cover:
 ---
 
 Alright, so that's the end of 2025, I want to take a moment to write down what I actually carry and use every day.  
-This is not a “perfect” or aesthetic EDC, it’s simply the gear that fits my lifestyle, survives daily use, and gets real work done.
 
 # Criteria
 My everyday carry follows a few simple rules:
