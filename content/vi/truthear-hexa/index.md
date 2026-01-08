@@ -14,19 +14,18 @@ Vậy Hexa có thật sự là “con bài chiến lược” của Truthear tro
 # Thông tin
 - Driver: 1DD + 3BA
 - Giá: 1.450.000VNĐ
-- Nơi mua: [Xuân Vũ](https://tainghe.com.vn/tai-nghe-truthear-hexa.html) (not affialated)
 
 # Mở hộp
-Cảm giác mở hộp của Truthear Hexa mang lại cảm giác cao cấp. Bên ngoài là hình gái alime tai thỏ với vài thông số kĩ thuật. Bên trong hộp của Truthear Hexa gồm có:
+Hộp của Truthear Hexa mang lại cảm giác cao cấp khi mở. Bên ngoài là hình gái alime tai thỏ với vài thông số kĩ thuật. Bên trong hộp của Truthear Hexa gồm có:
 - Truthear Hexa (cảm ơn Caption Obvious)
 - Túi đựng da: khá lớn, đựng được nhiều thứ ngoài IEM
-- Dây tai nghe: 2pin chuẩn 3.5SE đồng mạ bạc 4N, cực kì dễ rối
+- Dây tai nghe: 2pin chuẩn 3.5SE đồng mạ bạc 4N, hơi dễ rối
 - 7 cặp tips (3 cặp ống hẹp, 3 cặp ống rộng, 1 cặp foam)
 - Standee gái alime
 - Sách HDSD, thẻ bảo hành
 
 # Thiết kế, phụ kiện đi kèm và cảm giác đeo
-Build quality của Truthear Hexa khá ổn trong tầm giá. Faceplate được làm bằng hợp kim nhôm phun cát, còn housing làm bằng nhựa nhám trong mờ, được in 3D bởi HeyGears (công ty chuyên in 3D và đã từng tham gia sản xuất Blessing 2), nhìn được hệ thống driver bên trong. Mặc dù nhìn bên ngoài khá góc cạnh nhưng bên trong Truthear Hexa đã được bo góc mềm mại để tạo cảm giác thoải mái hơn. 
+Build quality của Truthear Hexa khá ổn trong tầm giá. Faceplate được làm bằng hợp kim nhôm phun cát, còn housing làm bằng nhựa nhám trong mờ, được in 3D bởi HeyGears (công ty chuyên in 3D và đã từng tham gia sản xuất Blessing 2), nhìn được hệ thống driver bên trong. Mặc dù nhìn bên ngoài khá góc cạnh nhưng bên trong Truthear Hexa đã được bo góc mềm mại để tạo cảm giác thoải mái hơn.
 
 Dây stock làm bằng đồng mạ bạc 4N, đan 4 lõi, chất lượng khá tốt, hơi dễ rối. Tips stock khá mịn, bám tai, đeo khá thoải mái nên chưa cần thay tips vội. Ngoài ra còn có túi đựng khá lớn, có thể nhét thêm dongle hoặc tips tai vào ngoài tai nghe.
 
@@ -37,13 +36,13 @@ Truthear Hexa mang lại cảm giác đeo khá thoải mái, vì được hoàn 
 
 Bass của Hexa tập trung vào subbass, rumbly, phần mở rộng tốt, không bị lấn, lực vừa phải, tan nhanh. Với những người nghe nhiều bass thì lượng bass của Hexa có thể sẽ hơi ít.
 
-Mid rất sạch, sạch đến nỗi có thể nghe rõ nhạc cụ, giọng hát cũng như các chi tiết của bài nhạc rất rõ ràng, tách lớp và layering cực tốt. Mid sạch như vậy không có nghĩa nó mỏng. Giọng nam được thể hiện tốt, có độ gằn, cảm xúc. Giọng nữ lên khá cao, thanh thoát. Nhạc cụ được thể hiện rất tốt.
+Mid rất sạch, sạch đến nỗi có thể nghe rõ nhạc cụ, giọng hát cũng như các chi tiết của bài nhạc rất rõ ràng, tách lớp và layering cực tốt. Mid sạch như vậy không có nghĩa nó mỏng. Giọng nam được thể hiện tốt, có độ gằn, cảm xúc. Giọng nữ lên khá cao, thanh thoát, tuy hơi khô. Nhạc cụ được thể hiện rất tốt.
 
-Treble rất airy, thoáng đãng, phần mở rộng tốt, không bị harsh, tuy nhiên hơi thiếu độ sparkly.
+Treble rất airy, thoáng đãng, có độ leng keng, giòn, phần mở rộng tốt, không bị harsh, tuy nhiên hơi an toàn và ít năng lượng.
 
 Điểm mạnh nhất của Hexa chắc chắn nằm ở phần kĩ thuật. Trong tầm giá dưới 2 triệu thì khó có em IEM nào đạt được kĩ thuật tốt như Truthear Hexa.
 
-Nhờ được tune theo target Diffuse Field nên âm trường của Hexa rộng, thoáng và sâu, tốt hơn nhiều mẫu IEM khác cùng tầm giá. Âm hình có khả năng định vị tốt, tách lớp và layering tốt, rất chi tiết, các dải kiểm soát tốt, không bị lấn vào nhau.
+Âm trường của Hexa rộng, thoáng và sâu, tốt hơn nhiều mẫu IEM khác cùng tầm giá. Nhờ được tune theo target Diffuse Field nên âm hình có khả năng định vị tốt, tách lớp và layering tốt, rất chi tiết, các dải kiểm soát tốt, không bị lấn vào nhau.
 
 ![graph](graph.png)
 

@@ -12,22 +12,9 @@ Truthear Hola từng là một cái tên rất được yêu thích trong phân 
 
 Và Truthear Gate đã xuất hiện, là bản kế nhiệm của Hola, như một "cổng chào" đón nhận người chơi audio mới. Vậy nó có thể làm tốt vai trò “người kế nhiệm” Hola không, hoặc ít nhất là một lựa chọn thay thế hợp lý? Dưới đây là cảm nhận của mình về Truthear Gate.
 
-# tl;dr
-## Pros
-- Giá rẻ
-- Phụ kiện đi kèm chất lượng
-- Housing nhẹ, đeo thoải mái
-- Màu âm trung tính hơi thiên ấm nhẹ
-- Kĩ thuật tốt trong tầm giá
-
-## Cons
-- Chất lượng hoàn thiện kém, khá dễ xước và bám vân tay
-- Treble tune hơi kì, hơi khô và có hơi metallic
-
 # Thông tin
 - Cấu hình: 1DD
 - Giá: 350.000 VND
-- Nơi mua: QM Audio trên Shopee
 
 # Mở hộp
 Hộp của Gate đóng hộp khá giống với những sản phẩm Truthear khác, tuy nhiên hộp của Truthear Gate lại nhỏ gọn và đáng yêu hơn nhiều. Bên trong hộp gồm có:
@@ -50,7 +37,7 @@ Chất lượng hoàn thiện khá tệ, khá dễ xước và bám vân tay. C�
 ![nozzle](gate-nozzle.jpeg)
 
 # Chất âm
-Truthear Gate mang màu âm trung tính hơi thiên ấm nhẹ giống những sản phẩm Truthear khác, khá phù hợp để nghe tạp.
+Truthear Gate mang màu âm trung tính hơi thiên sáng nhẹ, có phần nào đó tương tự Moondrop Lan.
 
 Gate mang một lượng bass vừa đủ, không quá nhiều, tập trung vào Subbass. Subbass xuống khá sâu, rumbly. Tuy nhiên midbass đánh hơi thiếu lực, xuống không sâu lắm. Tốc bass không quá nhanh, nhưng kiểm soát khá tốt nên không bị lấn sang dải khác.
 
@@ -58,22 +45,8 @@ Mid khá tự nhiên, trung tính, không quá lùi mà cũng không quá tiến
 
 Dải treble của em này tune khá kì, thụt ở đoạn 10-12k nhưng lại đẩy 14k lên. Mình đang ghét nó hơn là thích, làm mọi thứ bị compressed lại. Mặc dù vậy thì treble khá mượt và an toàn, khi nghe thì sẽ không thấy chói, gắt hay sib. Tuy nhiên vì tune an toàn và hơi thiếu phần mở rộng nên treble khá khô, cũng như hơi metallic.
 
-Trong tầm giá này thì kĩ thuật của Gate được thể hiện khá tốt so với những chiếc IEM khác trong tầm giá. Âm trường khá thoáng đãng, cân bằng giữa độ rộng và độ sâu. Âm hình định vị và tách lớp tốt, kém hơn Chu 2 chút.
-
+Trong tầm giá này thì tính kĩ thuật không được quá cao, Gate cũng tương tự vậy. Âm trường khá thoáng đãng, cân bằng giữa độ rộng và độ sâu. Âm hình định vị và tách lớp ở mức trung bình-tốt, không có gì quá nổi bật.
 ![graph](graph.png)
-
-# So sánh nhanh giữa Truthear Gate và Moondrop Chu 2
-- Phụ kiện thì Truthear Gate có cáp chất lượng tốt hơn, tips thì Chu 2 hơn.
-- Thiết kế thì đẹp xấu tùy người, nhưng theo mình thì Chu 2 đẹp hơn.
-- Mid của Chu 2 sẽ có độ trong trẻo tốt hơn chút.
-- Bass của Chu 2 mặc dù nhiều hơn nhưng tốc bass nhanh hơn, cũng như impact tốt hơn Gate.
-- Treble của Chu 2 sparkle, airy hơn. Treble của Gate tune khá kì.
-- Về âm trường thì Chu 2 và Gate khá thoáng đãng, nhưng Gate cân bằng giữa độ rộng và sâu.
-- Âm hình thì cả 2 đều tách lớp và định vị ổn, tuy nhiên Chu 2 sẽ tốt hơn Gate một chút.
 
 # Tổng kết
 Nếu bạn mới chơi IEM, cần 1 em IEM trung tính để nghe nhiều thể loại nhạc hoặc nghe nhạc J-Pop, J-Rock mà chủ yếu có vocal nữ thì Truthear Gate sẽ là một lựa chọn rất hợp lí. Truthear Gate cũng là mẫu IEM giá rẻ hiếm hoi mang màu âm trung tính thay vì V-Shape như nhiều mẫu IEM khác nên rất đáng để chơi.
-
-**Ranking**: Tonality: **B** / Technicality: **B-**
-
--> Overall: **B**

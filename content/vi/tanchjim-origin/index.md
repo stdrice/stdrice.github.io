@@ -45,21 +45,16 @@ Tuy nhiên, theo trải nghiệm của mình thì cả 3 filter này đều khô
 ![filters](oriri-filters.jpg)
 
 # Chất âm
-Tanchjim Origin mang cho mình màu âm trung tính hơi thiên hướng sáng, nhấn mạnh vào dải Mid, tập trung vào giọng hát và nhạc cụ. 
+Tanchjim Origin mang cho mình màu âm trung tính hơi thiên hướng sáng, nhấn mạnh vào giọng hát. Đây cũng là một trong những IEM thiên vocal hay nhất mình từng nghe.
 
-Mới đầu nhìn trên dải tần đáp ứng, mình nghĩ Origin là một em tai có bass khá mềm, nhưng hoàn toàn không phải như vậy. Dải Bass của Origin sẽ nhấn vào mid-bass nhiều hơn là sub-bass. Bass đánh rất chặt, rất lực nhưng vẫn gọn gàng, kiểm soát tốt, tốc nhanh, không có hiện tượng bị lấn sang dải trung. Tuy nhiên phần sub-bass bị roll-off nên dải bass sẽ tập trung vào độ punchy hơn là rền.
+Mới đầu nhìn trên dải tần đáp ứng, mình nghĩ Origin là một em tai có bass khá mềm, nhưng hoàn toàn không phải như vậy. Dải Bass của Origin đáp ứng tốt với nhu cầu của mình, đủ độ vui cho nhiều thể loại nhạc. Bass đánh rất chặt, rất lực nhưng vẫn gọn gàng, kiểm soát tốt, tốc nhanh, không có hiện tượng bị lấn sang dải trung. Subbass bị roll-off nhẹ nên dải bass sẽ tập trung vào độ punchy hơn là rền.
 
-Điểm mạnh nhất của Origin chắc chắn nằm ở dải Mid. Mid thiên về "ngọt" hơn là "thanh", được tái tạo rất tốt, âm sắc tự nhiên, mượt mà nhưng vẫn chi tiết. Lower Mid khá dày, có chút hơi ấm, giọng nam và nhạc cụ trầm được thể hiện khá tròn vai, nghe khá thư giãn. Upper Mid được đẩy lên vừa đủ, sáng nhưng không quá chói. Giọng nữ nghe rất ngọt ngào, thanh thoát. Nhạc cụ chi tiết, nghe rất phê.
+Điểm mạnh nhất của Origin chắc chắn nằm ở dải Mid. Mid thiên về "ngọt" hơn là "thanh", được tái tạo rất tốt, âm sắc tự nhiên, mượt mà nhưng vẫn chi tiết. Lower Mid khá dày, có chút hơi ấm, giọng nam và nhạc cụ trầm được thể hiện khá tròn vai, có độ "gằn". Upper Mid được đẩy lên vừa đủ, sáng nhưng không quá chói. Giọng nữ nghe rất ngọt ngào, thanh thoát. Nhạc cụ cao rất chi tiết, nghe rất phê.
 
-Dải Treble của Origin được tune hơi an toàn. Treble nghe mượt, êm tai, thoáng đãng, lượng chi tiết và phần mở rộng vừa đủ, sparkly nhưng không quá sib. Tuy nhiên với những người đã nghe quen những mẫu IEM âm tối thì dải treble của Origin sẽ hơi sắc và chói tai. Nếu dải treble này chưa làm hài lòng thì có thể thử Pentaconn Coreir AL Alloy, dải treble sẽ trở nên sắc và chi tiết hơn.
+Dải Treble của Origin theo tai mình thì được tune hơi an toàn. Treble nghe mượt, êm tai, thoáng đãng, lượng chi tiết và phần mở rộng vừa đủ, sparkly nhưng không quá sib. Tuy nhiên với những người đã nghe quen những mẫu IEM âm tối thì dải treble của Origin sẽ hơi sắc và chói tai. Thậm chí nếu dải treble này chưa làm hài lòng thì có thể thử Pentaconn Coreir AL Alloy, dải treble sẽ trở nên sắc và chi tiết hơn.
 
 Về khoản kỹ thuật, đây cũng là điểm mạnh của Origin so với những đối thủ khác, mặc dù chỉ sử dụng duy nhất 1DD. Âm trường rất thoáng đãng và có chiều sâu, có lẽ cũng nhờ hệ thống thoát khí gần connector. Âm hình định vị chính xác, khả năng tách giọng hát và nhạc cụ rõ ràng. Nhìn chung là kĩ thuật của Origin rất tốt với một mẫu 1DD IEM.
-
 ![graph](graph.png)
 
 # Tổng kết
 Với mức giá khoảng $200 thì Tanchjim Origin có đáng không? Chắc chắn là có! Với những người muốn một em IEM màu âm trung tính, dễ kéo, dễ nghe, đặc biệt nhấn mạnh vào giọng hát và nhạc cụ, Tanchjim Origin là sự lựa chọn hoàn toàn đáng giá.
-
-**Ranking**: Tonality: **A** / Technicality: **A+**
-
--> Overall: **A+**
