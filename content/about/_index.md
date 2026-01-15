@@ -17,22 +17,14 @@ I'm also available on some platforms:
 - [GitHub](https://github.com/stdrice): to host my (personal) projects
 - [Anilist](https://anilist.co/user/stdrice): to track my anime/manga list
 
-# Some facts about me :D
-## Games
+# Traits/Thoughts
+Not sorted.
 - I'm not addicted to video games anymore, but before, I played lots of different games. I have played video games since first time I used a computer (3yo). The first game I played was Counter Strike, it's still one of my favorite games.
-
-## Music
-- I listen to multiple genres of music, but mostly Electronic, J-Pop and J-Rock.
-- My favorite artists are TUYU, Ado, YOASOBI, Skrillex, Fred Again.., Porter Robinson, Nujabes, AZALI, Kobaryo, ak+q, ...
-
-## Internet / Social
+- I listen to multiple genres of music, but mostly Electronic, J-Pop and J-Rock. My favorite artists are TUYU, Ado, YOASOBI, Skrillex, Fred Again.., Porter Robinson, Nujabes, AZALI, Kobaryo, ak+q, Dustvoxx, re:plus, ...
 - I don't use *mainstream* social media because I'm concerned about privacy, and the knowledge I learned from social media is very small. Someone once called me an ape for not using social media, lol.
 - In real life, my persona is quite different from how I appear online.
-
-## Technology
-- I use **Arch Linux** as my main operating system. I only use Windows (LTSC, debloated and hardened) when needed.
+- I use **Fedora** and **Arch Linux** as my main operating system. I only use Windows (LTSC, debloated and hardened) when needed.
 - I stick to FOSS (Free and Open Source Software) and privacy-friendly/self-hosted tools whenever possible.
 - I'm not really a fan of **AI**.
-
-## Extra
+- My favorite color is red.
 - I have **deuteranopia (red-green colorblindness)** and **ADHD**, which is really annoying in daily life. 
