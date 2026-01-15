@@ -10,7 +10,7 @@ title: 'About me'
 
 # Where to find me?
 You can contact me using any services below:
-- Mail: [stdrice@disroot.org](mailto:stdrice@disroot.org)
+- Mail: [stdrice@disroot.org](mailto:stdrice@disroot.org) ([Please use GPG whenever possible](/stdrice_public.asc))
 - Discord: `stdrice_`
 
 I'm also available on some platforms:
