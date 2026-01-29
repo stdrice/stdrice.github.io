@@ -73,6 +73,7 @@ Compared to LineageOS, GrapheneOS keeps the full Pixel security model intact, in
 - Firmware and driver security updates
 - Hardware-backed key storage
 - Modern exploit mitigation features
+
 LineageOS focuses more on openness and device support, while GrapheneOS focuses strictly on security and hardening, even if that means supporting fewer devices and features.
 
 # Daily drive
