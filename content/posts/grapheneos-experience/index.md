@@ -40,6 +40,7 @@ My threat model is based on four simple goals:
 - Making the device more secure and harder to attack, with reduced exposure to exploits
 - Having real control over my own phone instead of relying on closed, restrictive platform decisions (like iOS)
 - Avoiding telemetry, big tech data collection, and unnecessary background connections to servers
+
 In practice, this means I value both privacy and security at the same time. I want the system to resist real-world exploits, and I also want to reduce silent data collection during everyday use. I use GrapheneOS because it gives me control over permissions, network access, and system behavior without locking me into a closed ecosystem.
 
 # Features
@@ -101,6 +102,7 @@ Battery life is quite bad. This is likely caused by a combination of factors:
 - Sandboxed Google Play and Play Services running in the background
 - Meta apps (Facebook, Instagram) being aggressive with background activity, even when background restricted
 - Less aggressive vendor power optimizations compared to stock ROMs
+
 I will try to fix it soon.
 ![battery](battery.png)
 
