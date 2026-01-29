@@ -78,7 +78,7 @@ LineageOS focuses more on openness and device support, while GrapheneOS focuses 
 
 # Daily drive
 ## My experience
-The user experience of GrapheneOS is quite simple, without many customization features or fancy stuff. The operating system is fairly stable, has few bugs, and is updated continuously.
+The user experience of GrapheneOS is quite simple, without many customization features or fancy stuff. The operating system is fairly stable, has few bugs, and is updated frequently.
 
 Compared to other custom interfaces (OneUI, HyperOS, …), GrapheneOS is more stable, feels smoother, and has no bloatware. Everything is focused on security and minimalism rather than entertainment features. It has very limited customization options, so it is clearly not designed for users who want heavy customization or a feature-rich interface.
 
