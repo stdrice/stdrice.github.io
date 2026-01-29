@@ -34,6 +34,14 @@ After reaching the home screen, GrapheneOS comes with **only 14 preinstalled app
 
 ![graphene1](graphene1.png)
 
+# Threat model
+My threat model is based on four simple goals:
+- Protecting my privacy
+- Making the device more secure and harder to attack, with reduced exposure to exploits
+- Having real control over my own phone instead of relying on closed, restrictive platform decisions (like iOS)
+- Avoiding telemetry, big tech data collection, and unnecessary background connections to servers
+In practice, this means I value both privacy and security at the same time. I want the system to resist real-world exploits, and I also want to reduce silent data collection during everyday use. I use GrapheneOS because it gives me control over permissions, network access, and system behavior without locking me into a closed ecosystem.
+
 # Features
 From a practical perspective, GrapheneOS mainly improves Android in three areas: permission control, service isolation, and system hardening.
 
@@ -55,6 +63,16 @@ In addition, the system includes several **hardening and exploit protection feat
 - USB-C port control to limit data access when the device is locked
 
 These features operate mostly in the background and do not change the visual experience, but they add extra layers of protection against both tracking and exploitation.
+
+# Comparison with stock Android and other ROMs
+Compared to stock Pixel Android, GrapheneOS removes all privileged Google components and replaces them with user-controlled, sandboxed alternatives. On stock Android, Google Play Services runs with deep system privileges, while on GrapheneOS it behaves like a normal app with no special access.
+
+Compared to LineageOS, GrapheneOS keeps the full Pixel security model intact, including:
+- Verified boot and rollback protection
+- Firmware and driver security updates
+- Hardware-backed key storage
+- Modern exploit mitigation features
+LineageOS focuses more on openness and device support, while GrapheneOS focuses strictly on security and hardening, even if that means supporting fewer devices and features.
 
 # Daily drive
 ## My experience
@@ -79,7 +97,11 @@ In addition, there is the VNeID app, which is famous for being difficult to bypa
 However, only Google Wallet does not work (because it does not pass Play Integrity, and Google does not like custom ROMs). That said, I do not really need Google Wallet, especially since in Vietnam and Japan, QR code payments are far more common, and I also prefer using physical cards anyway.
 
 ## Battery
-Battery life is quite bad. Apps are allowed to run in the background excessively (especially Play Services and Meta apps like Facebook or Instagram, even when background activity is restricted). I will try to fix this soon.
+Battery life is quite bad. This is likely caused by a combination of factors:
+- Sandboxed Google Play and Play Services running in the background
+- Meta apps (Facebook, Instagram) being aggressive with background activity, even when background restricted
+- Less aggressive vendor power optimizations compared to stock ROMs
+I will try to fix it soon.
 ![battery](battery.png)
 
 # My settings
