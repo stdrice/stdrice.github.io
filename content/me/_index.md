@@ -23,7 +23,7 @@ Not sorted.
 - I listen to multiple genres of music, but mostly Electronic, J-Pop and J-Rock. My favorite artists are TUYU, Ado, YOASOBI, Skrillex, Fred Again.., Porter Robinson, Nujabes, AZALI, Kobaryo, ak+q, Dustvoxx, re:plus, ...
 - I don't use *mainstream* social media because I'm concerned about privacy, and the knowledge I learned from social media is very small. Someone once called me an ape for not using social media, lol.
 - In real life, my persona is quite different from how I appear online.
-- I use **Fedora** and **Arch Linux** as my main operating system. I only use Windows (LTSC, debloated and hardened) when needed.
+- I use **[Arch Linux](https://archlinux.org)** as my main operating system. I only use Windows (LTSC, debloated and hardened) when needed.
 - I stick to FOSS (Free and Open Source Software) and privacy-friendly/self-hosted tools whenever possible.
 - I'm not really a fan of **AI**.
 - My favorite color is red.
