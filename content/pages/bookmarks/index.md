@@ -27,3 +27,7 @@ This site is a collection of all bookmarks that I used to save across multiple b
 - [nyaa](https://nyaa.si): anime-related torrent tracker
 - [2yxa.mobi](https://2yxa.mobi): watch yt on old phones
 - [hiax sharing](https://docs.google.com/forms/d/e/1FAIpQLSe92G1gnkAj-tGEPUDG9sik3qigCttq08E9fODUa3NijUUxqw/viewform): music making resources
+
+# osu!
+## Skins
+- [arashi v1](https://drive.google.com/drive/folders/1IxF7t49oOhug8E8qGq8lRkA_R6-Oaxr5?usp=drive_link)
