@@ -31,3 +31,4 @@ This site is a collection of all bookmarks that I used to save across multiple b
 # osu!
 ## Skins
 - [arashi v1](https://drive.google.com/drive/folders/1IxF7t49oOhug8E8qGq8lRkA_R6-Oaxr5?usp=drive_link)
+- [Re-opsu! (stdrice edit)](https://drive.google.com/drive/folders/1xnZpFYXfIS5vte3G9eumiqjNOxQO1-5x?usp=drive_link)
