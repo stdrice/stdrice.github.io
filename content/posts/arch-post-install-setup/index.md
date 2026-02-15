@@ -1,5 +1,6 @@
 ---
 title: "Arch Linux Post-Installation Setup"
+description: "Things I do after installing Arch Linux."
 date: '2025-12-22T15:59:39+07:00'
 tags: [ 'linux', 'archlinux' ]
 draft: false
@@ -7,8 +8,6 @@ cover:
     image: ""
     responsiveImage: true
 ---
-
-This post lists things I do after installing Arch Linux.
 
 # Secure Boot setup
 ```bash

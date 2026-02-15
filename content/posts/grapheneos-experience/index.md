@@ -1,5 +1,6 @@
 ---
 title: "GrapheneOS Experience"
+description: "A brief write-up about my experience with the most private and secure mobile OS."
 date: '2026-01-29T21:14:44+07:00'
 tags: [ "android", "pixel", "privacy", "security" ]
 draft: false

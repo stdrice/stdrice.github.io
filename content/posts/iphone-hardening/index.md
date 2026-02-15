@@ -1,5 +1,6 @@
 ---
 title: "iPhone Hardening"
+description: "Things I do to make an iPhone more private and secure."
 date: '2025-12-07T20:40:30+07:00'
 tags: [ "ios", "iphone", "hardening", "privacy", "security" ]
 draft: false

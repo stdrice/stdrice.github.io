@@ -1,5 +1,6 @@
 ---
 title: "My 2025 EDC"
+description: "Items that I have on me on a daily basis in 2025."
 date: '2025-12-25T13:17:49+07:00'
 tags: [ 'edc', 'tech' ]
 draft: false
