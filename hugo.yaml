@@ -10,11 +10,20 @@ params:
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
   disableThemeToggle: true
+  ShowReadingTime: true
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title"]
 
 menu:
   main:
     - identifier: home
-      name: "home"
+      name: "○"
       url: "/"
       weight: 1
     - identifier: me
@@ -33,11 +42,21 @@ menu:
       name: "pages"
       url: "/pages/"
       weight: 5
+    - identifier: search
+      name: "search"
+      url: "/search/"
+      weight: 6
     - identifier: vi
       name: "vi"
       url: "/vi/"
-      weight: 6
+      weight: 7
 
 caches:
   images:
     dir: :cacheDir/images
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON

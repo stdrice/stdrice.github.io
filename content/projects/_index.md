@@ -2,7 +2,6 @@
 title: 'Projects'
 ---
 
-# Some of my projects
 - [Dell XPS 9500 CometLake OpenCore EFI](https://github.com/stdrice/dell-xps-9500-cometlake-opencore-efi)
 - [Dell Latitude 7290 KabyLake OpenCore EFI](https://github.com/stdrice/dell-latitude-7290-kabylake-opencore-efi)
 
