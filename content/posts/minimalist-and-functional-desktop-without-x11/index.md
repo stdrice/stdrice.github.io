@@ -27,7 +27,7 @@ I use [PipeWire](https://pipewire.org/) because it is stable in daily use, compa
 
 ## Login manager
 I don't use any display manager (like GDM, SDDM, ...). Instead I log in directly from a TTY, and my desktop is started automatically when the session is on `tty1`.\
-[Read this](https://wiki.archlinux.org/title/GNOME/Keyring#Using_the_keyring) to add PAM to tty.
+[Read this](https://wiki.archlinux.org/title/GNOME/Keyring#Using_the_keyring) to add PAM for GNOME keyring to tty.
 
 # Package Management
 For package management, I use `pacman` with [yay](https://github.com/Jguer/yay) for core system packages, [Flatpak](https://flatpak.org) for user applications.\
