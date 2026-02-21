@@ -20,7 +20,7 @@ cover:
 I use [Arch Linux](https://archlinux.org) as my main distro mainly because it allows me to start from a minimal base system and build everything up manually. This gives me full control over what runs on my machine and avoids the overhead of a preconfigured desktop environment or unnecessary background services.
 
 ## Desktop
-I use [Sway](https://swaywm.org) for my desktop. Sway is a Wayland compositor, built around the tiling window manager philosophy. Windows are arranged in tiles, and interaction is driven primarily by keyboard shortcuts and workspaces.. Sway is the i3 of the Wayland world, so the workflow will feel familiar if you have used i3 before.
+I use [Sway](https://swaywm.org) for my desktop. Sway is a Wayland compositor, built around the tiling window manager philosophy. Windows are arranged in tiles, and interaction is driven primarily by keyboard shortcuts and workspaces. Sway is the i3 of the Wayland world, so the workflow will feel familiar if you have used i3 before.
 
 ## Audio
 I use [PipeWire](https://pipewire.org/) because it is stable in daily use, compatible with other audio server (Pulse, Alsa, ...), low latency (which is good for gaming and making music), easy to configure, support high sample rates.
