@@ -26,7 +26,8 @@ I use [Sway](https://swaywm.org) for my desktop. Sway is a Wayland compositor, b
 I use [PipeWire](https://pipewire.org/) because it is stable in daily use, compatible with other audio server (Pulse, Alsa, ...), low latency (which is good for gaming and making music), easy to configure, support high sample rates.
 
 ## Login manager
-I don't use any display manager (like GDM, SDDM, ...). Instead I log in directly from a TTY, and my desktop is started automatically when the session is on `tty1`.
+I don't use any display manager (like GDM, SDDM, ...). Instead I log in directly from a TTY, and my desktop is started automatically when the session is on `tty1`.\
+[Read this](https://wiki.archlinux.org/title/GNOME/Keyring#Using_the_keyring) to add PAM to tty.
 
 # Package Management
 For package management, I use `pacman` with [yay](https://github.com/Jguer/yay) for core system packages, [Flatpak](https://flatpak.org) for user applications.\
