@@ -10,10 +10,10 @@ cover:
 ---
 
 # Why I chose Wayland?
-- Simple: Wayland is only a protocol, not a large server implementation, so there are fewer background processes and dependencies compared to X11.
-- Efficient: Everything is handled directly by the compositor, which leads to noticeably better performance and lower overhead than X11’s multi-layered architecture.
-- More secure: Applications are better isolated from each other, especially for input and screen access, making keylogging and screen scraping much harder.
-- Fractional scaling: Wayland supports fractional scaling natively, so HiDPI displays look sharp without blurry scaling or heavy workarounds.
+- **Simple**: Wayland is only a protocol, not a large server implementation, so there are fewer background processes and dependencies compared to X11.
+- **Efficient**: Everything is handled directly by the compositor, which leads to noticeably better performance and lower overhead than X11’s multi-layered architecture.
+- **Security**: Applications are better isolated from each other, especially for input and screen access, making keylogging and screen scraping much harder.
+- **Fractional scaling**: Wayland supports fractional scaling natively, so HiDPI displays look sharp without blurry scaling or heavy workarounds.
 
 # Basics
 ## Distro
