@@ -46,7 +46,7 @@ Notifications are handled by [Mako](https://github.com/emersion/mako). It is sma
 ![notify](notify.png)
 
 ## Screenshot and screen sharing
-Screenshots are handled by [grim] together with [slurp], allowing fast region-based captures directly on Wayland.\
+Screenshots are handled by [grim](https://sr.ht/~emersion/grim) together with [slurp](https://sr.ht/~emersion/slurp), allowing fast region-based captures directly on Wayland.\
 For screen sharing to work on Sway/Wayland, `xdg-desktop-portal-wlr` is required.
 
 # Core Software
