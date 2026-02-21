@@ -5,6 +5,7 @@ title: stdrice
 theme: ["PaperMod"]
 
 params:
+  author: "stdrice"
   defaultTheme: auto
   ShowToc: true
   ShowPostNavLinks: true
