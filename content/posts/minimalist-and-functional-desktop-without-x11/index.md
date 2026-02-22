@@ -46,6 +46,11 @@ Instead of `swaybar`, the standard status bar which comes with Sway, I use [Wayb
 Notifications are handled by [Mako](https://github.com/emersion/mako). It is small, unobtrusive, and integrates cleanly with Wayland, providing just enough feedback without turning notifications into visual noise.
 ![notify](notify.png)
 
+## Lockscreen
+I use `swaylock-effects` for lockscreen.
+TODO
+![lock](lock.png)
+
 ## Screenshot and screen sharing
 Screenshots are handled by [grim](https://sr.ht/~emersion/grim) together with [slurp](https://sr.ht/~emersion/slurp), allowing fast region-based captures directly on Wayland.\
 For screen sharing to work on Sway/Wayland, `xdg-desktop-portal-wlr` is required.
