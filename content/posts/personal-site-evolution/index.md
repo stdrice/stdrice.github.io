@@ -5,7 +5,7 @@ date: '2026-02-23T10:50:28+07:00'
 tags: ["website"]
 draft: false
 cover:
-    image: ""
+    image: "jan-aug2025.png"
     responsiveImage: true
 ---
 
