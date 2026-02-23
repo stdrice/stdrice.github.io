@@ -25,4 +25,4 @@ cover:
 ![jan-aug2025](jan-aug2025.png)
 
 # August 2025 - Now
-![2025-now](2025-now.png)
+![now](now.png)
