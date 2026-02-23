@@ -52,6 +52,11 @@ menu:
       url: "/vi/"
       weight: 7
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 caches:
   images:
     dir: :cacheDir/images
