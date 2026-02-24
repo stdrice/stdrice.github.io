@@ -12,6 +12,7 @@ params:
   ShowCodeCopyButtons: true
   disableThemeToggle: true
   ShowReadingTime: true
+  ShowFullTextinRSS: true
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
