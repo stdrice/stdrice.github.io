@@ -2,7 +2,7 @@
 title: "Personal Site Evolution"
 description: "A collection of screenshots showing the evolution of my personal website through the years."
 date: '2026-02-23T10:50:28+07:00'
-tags: ["website"]
+tags: ["website", "evolution"]
 draft: false
 cover:
     image: "jan-aug2025.png"
