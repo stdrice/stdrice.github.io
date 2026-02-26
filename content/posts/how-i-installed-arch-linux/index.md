@@ -339,6 +339,15 @@ The AUR (Arch User Repository) contains community-maintained packages not availa
 $ git clone https://aur.archlinux.org/yay-bin && cd yay-bin && makepkg -si
 ```
 
+## Flatpak
+Flatpak provides a universal package format with sandboxing, useful for desktop applications that you don’t want to manage via pacman or AUR.
+
+Install
+```
+# pacman -S flatpak
+```
+Reboot or relogin after installing Flatpak.
+
 ## `hosts` file
 The /etc/hosts file maps domain names to IP addresses before DNS is used.
 By mapping unwanted domains to 0.0.0.0, connections to them are blocked system-wide.
