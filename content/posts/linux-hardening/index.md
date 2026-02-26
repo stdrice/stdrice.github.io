@@ -2,7 +2,7 @@
 title: "Linux Hardening"
 description: "Things I make to a vanilla Arch Linux installation to make it more private and secure."
 date: '2025-12-06T16:20:59+07:00'
-tags: [ "linux", "hardening", "privacy", "security" ]
+tags: [ "linux", "hardening", "privacy", "security", "guide" ]
 draft: false
 cover:
     image: ""

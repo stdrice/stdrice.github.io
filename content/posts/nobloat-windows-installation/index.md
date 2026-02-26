@@ -2,7 +2,7 @@
 title: "No-bloatware Windows Installation"
 description: "A short guide to installing Windows without bloatware and telemetry."
 date: '2025-08-27T12:51:29+07:00'
-tags: ["windows", "os", "privacy", "bloatware"]
+tags: ["windows", "os", "privacy", "bloatware", "guide"]
 draft: false
 cover:
     image: "binbows.png"
