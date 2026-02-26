@@ -283,6 +283,11 @@ Secure Boot ensures that only trusted, signed bootloaders and kernels can run on
 # sbctl sign <file listed on "sbctl verify">
 ```
 
+## Skip Disk encryption Password with TPM and SecureBoot enabled
+```
+# systemd-cryptenroll /dev/root_partition --tpm2-device=auto
+```
+
 ## Desktop
 Choose one according to your preference.
 
