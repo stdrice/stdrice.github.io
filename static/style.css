@@ -402,7 +402,6 @@ button {
 }
 
 .navigation-menu__inner {
-  display: flex !important;
   flex-direction: row !important;
   flex-wrap: wrap;
 }
@@ -410,5 +409,14 @@ button {
 @media (max-width: 684px) {
   .navigation-menu__inner {
     flex-direction: row !important;
+    flex-wrap: wrap !important;
   }
+}
+
+.navigation-menu {
+  overflow-x: auto;
+}
+
+.header__inner {
+  max-width: 100% !important;
 }
