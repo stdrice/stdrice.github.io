@@ -2,9 +2,6 @@
 title: "Bookmarks"
 date: '2025-11-09T08:43:03+07:00'
 draft: false
-cover:
-    image: ""
-    responsiveImage: true
 ---
 
 This site is a collection of all bookmarks that I used to save across multiple browsers and devices. Not sorted.

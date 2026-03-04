@@ -4,9 +4,7 @@ description: "A brief guide on how I install Arch Linux on my own systems, with 
 date: '2026-02-26T15:52:53+07:00'
 tags: ["linux", "arch-linux", "guide"]
 draft: false
-cover:
-    image: ""
-    responsiveImage: true
+cover: ""
 ---
 
 This is a brief guide describing how I install Arch Linux on my own systems.

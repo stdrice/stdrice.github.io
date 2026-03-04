@@ -4,8 +4,8 @@ date: '2024-09-01T22:21:58+07:00'
 tags: ["audio", "iem", "review", "truthear"]
 draft: false
 cover:
-    image: "hexa.jpg"
-    responsiveImage: true
+image: "hexa.jpg"
+responsiveImage: true
 ---
 
 Trong một rừng IEM đang ngày càng bão hòa bởi V-shape hay thiên hướng Harman thì Truthear Hexa chính là làn gió mới. Không màu mè, không đẩy dải nào lên quá cao, Hexa được tinh chỉnh theo hướng cân bằng, trung tính, phù hợp cho những ai muốn thưởng thức âm nhạc một cách chân thật.

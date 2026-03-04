@@ -3,9 +3,8 @@ title: "Moondrop Chu 2"
 date: '2024-08-21T22:18:45+07:00'
 tags: ["audio", "iem", "moondrop", "review"]
 draft: false
-cover:
-    image: "chu2.png"
-    responsiveImage: true
+image: "chu2.png"
+responsiveImage: true
 ---
 
 Mình mua Chu 2 vào tháng 2 2024 nhưng giờ mới có dịp để review, mong bài review này giúp ích cho bạn trước khi mua.

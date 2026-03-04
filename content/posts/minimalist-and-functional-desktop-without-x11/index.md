@@ -4,9 +4,7 @@ description: "A brief write-up on how I setup my Linux desktop to be minimal and
 date: '2026-02-21T13:38:21+07:00'
 tags: ["linux", "wm", "wayland"]
 draft: false
-cover:
-    image: "a.png"
-    responsiveImage: true
+cover: "a.png"
 ---
 
 # Why I chose Wayland?

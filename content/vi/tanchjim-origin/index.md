@@ -3,9 +3,8 @@ title: "Tanchjim Origin Review: 1DD IEM hay nhất?"
 date: '2025-04-25T22:47:24+07:00'
 tags: ["audio", "iem", "review", "tanchjim"]
 draft: false
-cover:
-    image: "oriri.jpg"
-    responsiveImage: true
+image: "oriri.jpg"
+responsiveImage: true
 ---
 
 Trong thế giới tai nghe IEM đang “nhiễu loạn” với đủ kiểu tuning, filter, driver hybrid... thì Tanchjim Origin chọn một con đường khác: đơn giản, tinh tế, và tập trung toàn lực vào trải nghiệm nghe. Chỉ một driver dynamic duy nhất, Origin không phô trương, không cầu kỳ nhưng lại mang đến chất âm trung tính, mượt mà và chi tiết đến bất ngờ.

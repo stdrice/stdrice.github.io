@@ -1,8 +1,8 @@
 # stdrice's Personal Site
 
 # Things I use
-- Hugo
-- PaperMod
+- [Hugo](https://gohugo.io/)
+- [Terminal theme](https://github.com/panr/hugo-theme-terminal)
 - Markdown
 
 # Run

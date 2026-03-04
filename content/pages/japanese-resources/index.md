@@ -2,9 +2,6 @@
 title: "Japanese Learning Resources"
 date: '2025-11-13T15:45:46+07:00'
 draft: false
-cover:
-    image: ""
-    responsiveImage: true
 ---
 
 # Guides

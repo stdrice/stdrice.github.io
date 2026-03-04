@@ -4,9 +4,7 @@ description: "Things I make to a vanilla Arch Linux installation to make it more
 date: '2025-12-06T16:20:59+07:00'
 tags: [ "linux", "hardening", "privacy", "security", "guide" ]
 draft: false
-cover:
-    image: ""
-    responsiveImage: true
+cover: ""
 ---
 
 This post lists the changes I make to a vanilla Arch Linux installation for privacy and security hardening. Most of the changes will work on any Linux distro that's reasonably up-to-date.

@@ -3,9 +3,8 @@ title: "Truthear Gate Review: Người kế nhiệm Hola?"
 date: '2024-09-18T22:30:14+07:00'
 tags: ["audio", "iem", "review", "truthear"]
 draft: false
-cover:
-    image: "gate.png"
-    responsiveImage: true
+image: "gate.png"
+responsiveImage: true
 ---
 
 Truthear Hola từng là một cái tên rất được yêu thích trong phân khúc tai nghe giá rẻ, nhờ chất âm U-shape dễ nghe và chất lượng tốt trong tầm giá. Tuy nhiên, Hola đã bị Truthear khai tử, khiến nhiều người phải tìm kiếm lựa chọn thay thế khác.
