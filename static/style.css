@@ -400,3 +400,15 @@ button {
   padding: 0;
   background: transparent;
 }
+
+.navigation-menu__inner {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 684px) {
+  .navigation-menu__inner {
+    flex-direction: row !important;
+  }
+}
