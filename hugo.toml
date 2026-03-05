@@ -1,4 +1,4 @@
-baseurl = "https://stdrice.github.io"
+baseurl = "/"
 languageCode = "en-us"
 theme = "terminal"
 pagination.pagerSize = 8
