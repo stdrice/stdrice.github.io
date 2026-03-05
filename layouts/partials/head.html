@@ -13,8 +13,6 @@
 
 {{ template "_internal/google_analytics.html" . }}
 
-{{ partial "analytics.html" . }}
-
 {{ $css := resources.Match "css/*.css" }}
 {{ range $css }}
   {{ $styles := . | minify | fingerprint }}
