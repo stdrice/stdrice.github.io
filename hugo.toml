@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 theme = "terminal"
-pagination.pagerSize = 5
+pagination.pagerSize = 8
 
 [markup.highlight]
   noClasses = false
