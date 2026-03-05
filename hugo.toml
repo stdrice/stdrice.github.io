@@ -16,7 +16,7 @@ pagination.pagerSize = 8
   enableGitInfo = true
   readingTime = true
   Toc = true
-  TocTitle = "ToC"
+  TocTitle = ""
   dateFormat = "2006-01-02"
 
 [params.twitter]
@@ -57,14 +57,14 @@ pagination.pagerSize = 8
           url = "/me"
           weight = 1
         [[languages.en.menu.main]]
-          identifier = "projects"
-          name = "projects"
-          url = "/projects"
-          weight = 2
-        [[languages.en.menu.main]]
           identifier = "posts"
           name = "posts"
           url = "/posts"
+          weight = 2
+        [[languages.en.menu.main]]
+          identifier = "projects"
+          name = "projects"
+          url = "/projects"
           weight = 3
         [[languages.en.menu.main]]
           identifier = "pages"
