@@ -15,7 +15,7 @@ pagination.pagerSize = 8
   showLastUpdated = true
   enableGitInfo = true
   readingTime = true
-  Toc = false
+  Toc = true
   TocTitle = ""
   dateFormat = "2006-01-02"
 
