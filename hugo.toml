@@ -72,15 +72,10 @@ pagination.pagerSize = 8
           url = "/pages"
           weight = 4
         [[languages.en.menu.main]]
-          identifier = "vi"
-          name = "vi"
-          url = "/vi"
-          weight = 5
-        [[languages.en.menu.main]]
           identifier = "rss"
           name = "rss"
           url = "/index.xml"
-          weight = 6
+          weight = 5
 
 
 [module]
