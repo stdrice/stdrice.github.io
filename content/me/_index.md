@@ -2,29 +2,60 @@
 title: 'About me'
 ---
 
-# Introduction
-- Hi! My name is **stdrice**
-- I'm a high school student, technically a tech (or newborn) paranoid/digital minimalist, and maybe otaku(?).
-- I love wandering around the Internet, listening to music, photo/lomography, tinkering tech stuffs, anime, manga, Japanese culture, etc.
-- My mother tongue is Vietnamese, but I can also use English. Currently, I'm learning Japanese too :D
+# Introdiction
+- stdrice
+- tech paranoid, but also tech enthusiast, music lover (def not an audiophile), otaku(?)
+- en / vi / jp(soon)
 
-# Where to find me?
-You can contact me using any services below:
-- Mail: [stdrice@disroot.org](mailto:stdrice@disroot.org) ([Please use GPG whenever possible](/stdrice_public.asc))
+# Contact
+- Mail: [stdrice@disroot.org](mailto:stdrice@disroot.org) ([Use GPG whenever possible](/stdrice_public.asc))
 - Discord: `stdrice_`
 
-I'm also available on some platforms:
-- [GitHub](https://github.com/stdrice): to host my (personal) projects
-- [Anilist](https://anilist.co/user/stdrice): to track my anime/manga list
+Other platforms:
+- [GitHub](https://github.com/stdrice)
+- [Anilist](https://anilist.co/user/stdrice)
 
-# Traits/Thoughts
-Not sorted.
-- I'm not addicted to video games anymore, but before, I played lots of different games. I have played video games since first time I used a computer (3yo). The first game I played was Counter Strike, it's still one of my favorite games.
-- I listen to multiple genres of music, but mostly Electronic, J-Pop and J-Rock. My favorite artists are TUYU, Ado, YOASOBI, Skrillex, Fred Again.., Porter Robinson, Nujabes, AZALI, Kobaryo, ak+q, Dustvoxx, re:plus, ...
-- I don't use *mainstream* social media because I'm concerned about privacy, and the knowledge I learned from social media is very small. Someone once called me an ape for not using social media, lol.
-- In real life, my persona is quite different from how I appear online.
-- I use **[Arch Linux](https://archlinux.org)** as my main operating system. I only use Windows (LTSC, debloated and hardened) when needed.
-- I stick to FOSS (Free and Open Source Software) and privacy-friendly/self-hosted tools whenever possible.
-- I'm not really a fan of **AI**.
-- My favorite color is red.
-- I have **deuteranopia (red-green colorblindness)** and **ADHD**, which is really annoying in daily life. 
+# Interests
+- [Music](#music)
+- [Tech](#tech)
+- Anime, manga, Japanese culture
+- Audio, hi-fi
+- Photography
+- Computer hardware
+- Open-source software
+- Privacy, security, anonymity
+
+# Tech
+- Use [Arch Linux](https://archlinux.org) and [GrapheneOS](https://grapheneos.org) as main OS.
+- Prefer FOSS (Free & Open-Source Software) and privacy-friendly tools whenever possible.
+- Generally skeptical of big tech.
+- Not really a fan of *AI*.
+- Avoid Chinese tech products when possible (except audio).
+
+# Music
+- Favorite genres: 
+    - Electronic: Psytrance, Hi-tech, Techno, Hardcore, DnB, Future Core, Artcore, Breakcore, ...
+    - J-Rock / J-Pop, anisong
+    - Doujin / indie
+    - Game soundtracks
+- Favorite artists: 
+    - Electronic: Dustvoxx, HARDCORE TANO*C, Skrillex, Fred again.., tn-shi, Porter Robinson, PSYQUI, Ata_kuso, AZALI, Moe Shop
+    - J-Pop / J-Rock: TUYU, ZUTOMAYO, Ado, YOASOBI, Vaundy, Yorushika, Hikaru Utada
+    - Doujin: IOSYS, Halozy, etc.
+    - Game: toby fox, Arcaea OST, Lia (Key / VisualArts), etc.
+- How I listen to music:
+    - Into audio gear, but not an audiophile.
+    - Local files > streaming; discover music mostly on YouTube.
+    - Rarely follow music trends.
+
+# Preferences / Opinions
+- Dislike mainstream social media and internet clout culture.
+- Also avoid places like ~[4chan](https://4chan.org)~, ~[soyjak.party](https://soyjak.st)~ or ~[KiwiFarms](https://kiwifarms.st)~.
+- Not into idol/celebrity culture.
+- ~Not everyone deserves free speech~.
+- I am not a trustworthy person, and you probably shouldn't trust anyone on the internet.
+
+# Misc
+- My favorite color is **red**.
+- I have **deuteranopia (red-green colorblindness)** and **ADHD**, which is really annoying in daily life.
+- My personality in real life is quite different from how I appear online.
