@@ -4,7 +4,9 @@ description: "A short guide to installing Windows without bloatware and telemetr
 date: '2025-08-27T12:51:29+07:00'
 tags: ["windows", "os", "privacy", "bloatware", "guide"]
 draft: false
-cover: "binbows.png"
+cover:
+    image: "binbows.png"
+    responsiveImage: true
 ---
 
 Recently, I had to switch to Windows because of some reasons (my school requires software that is not available on Linux, also I can't configure the projector to work well with Linux). Although the software I use on Linux also works well on Windows, there's a problem: **Windows has too much bloatware**.

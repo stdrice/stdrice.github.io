@@ -3,7 +3,9 @@ title: "Skip Counter Strike 2's Training Day"
 date: '2025-02-05T22:08:13+07:00'
 tags: ["cs2", "games", "steam"]
 draft: false
-cover: "a.jpg"
+cover:
+    image: "a"
+    responsiveImage: true
 ---
 
 1. Enable Developer Console

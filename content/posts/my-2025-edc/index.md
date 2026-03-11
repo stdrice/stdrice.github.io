@@ -4,7 +4,9 @@ description: "Items that I have on me on a daily basis in 2025."
 date: '2025-12-25T13:17:49+07:00'
 tags: [ 'edc', 'tech' ]
 draft: false
-cover: "laptop.jpg"
+cover:
+    image: "laptop.jpg"
+    responsiveImage: true
 ---
 
 Alright, so that's the end of 2025, I want to take a moment to write down what I actually carry and use every day.  

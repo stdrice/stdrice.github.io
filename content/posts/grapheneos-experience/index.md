@@ -4,7 +4,9 @@ description: "A brief write-up about my experience with the most private and sec
 date: '2026-01-29T21:14:44+07:00'
 tags: [ "android", "pixel", "privacy", "security" ]
 draft: false
-cover: "a.jpg"
+cover:
+    image: "a.jpg"
+    responsiveImage: true
 ---
 
 This post is my experience with GrapheneOS, a private and secure OS for mobile phones (especially Google Pixel phones).

@@ -4,5 +4,7 @@ description: ""
 date: '{{ .Date }}'
 tags: [""]
 draft: true
-cover: ""
+cover:
+    image: ""
+    responsiveImage: true
 ---

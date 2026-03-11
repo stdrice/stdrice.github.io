@@ -4,7 +4,9 @@ description: "A collection of screenshots showing the evolution of my personal w
 date: '2026-02-23T10:50:28+07:00'
 tags: ["website", "evolution"]
 draft: false
-cover: "jan-aug2025.png"
+cover:
+    image: "jan-aug2025.png"
+    responsiveImage: true
 ---
 
 # April - Dec 2022

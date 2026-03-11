@@ -4,7 +4,9 @@ description: "Things I do to make an iPhone more private and secure."
 date: '2025-12-07T20:40:30+07:00'
 tags: [ "ios", "iphone", "hardening", "privacy", "security", "guide" ]
 draft: false
-cover: ""
+cover:
+    image: ""
+    responsiveImage: true
 ---
 
 I recently switched to the iPhone. While it’s often marketed as “secure” and “privacy‑friendly” compared to Android, the reality is more nuanced. iOS has strong sandboxing, solid memory protections, and a tightly controlled app ecosystem, but it also contains layers of telemetry, hidden settings, cloud‑centric defaults, and convenience features that quietly expand your attack surface.

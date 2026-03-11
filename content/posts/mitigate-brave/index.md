@@ -3,7 +3,9 @@ title: 'Mitigate Brave'
 date: '2025-02-05T21:14:46+07:00'
 draft: false
 tags: ["browser", "privacy", "guide"]
-cover: "https://lukesmith.xyz/pix/leshilllion.png"
+cover:
+    image: "https://lukesmith.xyz/pix/leshilllion.png"
+    responsiveImages: true
 ---
 
 Brave is a good privacy-centric browser with many interesting features. However, it still has something weird like Brave Rewards, Brave Ads, Leo, ... In this blog, I will show you how to mitigate Brave.
