@@ -1,9 +1,10 @@
 ---
 title: "Bookmarks"
+description: "A collection of all bookmarks that I used to save across multiple browsers and devices."
 draft: false
 ---
 
-This site is a collection of all bookmarks that I used to save across multiple browsers and devices. Not sorted.
+Not sorted.
 
 # People
 - [vnpower](https://loang.net/~vnpower)

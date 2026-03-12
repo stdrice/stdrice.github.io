@@ -48,7 +48,7 @@ Some examples and controversies:
 - [The Brave affiliate link controversy](https://x.com/cryptonator1337/status/1269201480105578496)
 
 ## Private Mail
-The same thing happened with privacy-focused email services like [Proton] and [Tutanota].
+The same thing happened with privacy-focused email services like [Proton](https://proton.me) and [Tutanota](https://tutanota.com).
 Many of them expanded into full SaaS ecosystems:
 - storage
 - password managers

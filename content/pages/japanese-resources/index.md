@@ -1,5 +1,6 @@
 ---
 title: "Japanese Learning Resources"
+description: ""
 draft: false
 ---
 
