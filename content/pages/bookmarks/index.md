@@ -1,6 +1,5 @@
 ---
 title: "Bookmarks"
-date: '2025-11-09T08:43:03+07:00'
 draft: false
 ---
 
