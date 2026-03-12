@@ -9,7 +9,7 @@ cover:
     responsiveImage: true
 ---
 
-Around 2021 I started reading more about how large technology companies collect and process user data.  
+Around 2021, I started reading more about how large technology companies collect and process user data.  
 The deeper I went, the more uncomfortable I became with how much of my digital life depended on Google.
 
 So I decided to try something many people in the privacy community were talking about at the time:
@@ -48,7 +48,7 @@ Some examples and controversies:
 - [The Brave affiliate link controversy](https://x.com/cryptonator1337/status/1269201480105578496)
 
 ## Private Mail
-The same thing happened with privacy-focused email services.
+The same thing happened with privacy-focused email services like [Proton] and [Tutanota].
 Many of them expanded into full SaaS ecosystems:
 - storage
 - password managers
@@ -61,9 +61,11 @@ And more importantly, the **trust model never really changed**. You still had to
 
 Another thing I realized over time was how email encryption actually works in practice.
 
-Most “private email” systems primarily encrypt messages **inside their own ecosystem**. Once messages leave that ecosystem, they behave like normal email again. 
+Most “private email” systems primarily encrypt messages [**inside their own ecosystem**](https://proton.me/support/proton-mail-encryption-explained). Once messages leave that ecosystem, they behave like normal email again. 
 
 This is very different from protocol-level encryption systems like GPG, where encryption is independent of the provider. That distinction matters more than marketing pages suggest.
+
+At this point these services are even worse than Google in many regards.
 
 Some examples and controversies:
 - [Proton Mail logging a climate activist’s IP address after a Swiss court order (2021)](https://techcrunch.com/2021/09/06/protonmail-logged-ip-address-of-french-activist-after-order-by-swiss-authorities)
