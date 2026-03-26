@@ -11,7 +11,7 @@ title: 'About me'
 - Mail: [stdrice@disroot.org](mailto:stdrice@disroot.org) ([Use GPG whenever possible](/stdrice_public.asc))
 - ~~Discord: `stdrice_`~~
 
-Edit Mar/26/2026: No more Discord, just contact me via Email.
+**Edit Mar-26-2026**: No more Discord, just contact me via Email.
 
 Other platforms:
 - [GitHub](https://github.com/stdrice)
