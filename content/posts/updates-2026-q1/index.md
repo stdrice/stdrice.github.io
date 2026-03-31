@@ -3,7 +3,7 @@ title: "Updates 2026/Q1"
 description: "A small update on life and recent changes in 2026/Q1."
 date: '2026-03-31T23:18:33+07:00'
 tags: ["updates", "audio", "life", "internet", "photography"]
-draft: true
+draft: false
 cover:
     image: "3"
     responsiveImage: true
