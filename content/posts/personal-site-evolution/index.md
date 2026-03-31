@@ -5,24 +5,24 @@ date: '2026-02-23T10:50:28+07:00'
 tags: ["website", "evolution"]
 draft: false
 cover:
-    image: "jan-aug2025.png"
+    image: "jan-aug2025.jpeg"
     responsiveImage: true
 ---
 
 # April - Dec 2022
-![2022](2022.png)
+![2022](2022.jpeg)
 
 # July 2023
-![jul2023](jul2023.png)
+![jul2023](jul2023.jpeg)
 
 # August 2024
-![aug2024](aug2024.png)
+![aug2024](aug2024.jpeg)
 
 # December 2024
-![dec2024](dec2024.png)
+![dec2024](dec2024.jpeg)
 
 # January 2025 - August 2025
-![jan-aug2025](jan-aug2025.png)
+![jan-aug2025](jan-aug2025.jpeg)
 
 # August 2025 - Now
-![now](now.png)
+![now](now.jpeg)

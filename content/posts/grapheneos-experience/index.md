@@ -24,7 +24,7 @@ Installing GrapheneOS is relatively straightforward. You don't need to install `
 
 The whole process takes around 10 minutes from start to finish.
 
-![graphene0](graphene0.png)
+![graphene0](graphene0.jpeg)
 
 # First-boot
 The first-boot process on GrapheneOS is similar to stock Android: language selection, time settings, and lock screen setup. The main difference is that **there is no Google sign-in step and no preinstalled bloatware**.
@@ -33,7 +33,7 @@ Because of this, I can skip the diagnostics options and app suggestions and reac
 
 After reaching the home screen, GrapheneOS comes with **only 14 preinstalled apps**. Most of these are essential system applications such as Phone, Messages, Camera, and Settings. There are no social apps, no vendor apps, and no unnecessary extras. You can also disable some of the default apps if you do not need them, reducing the app list even further.
 
-![graphene1](graphene1.png)
+![graphene1](graphene1.jpeg)
 
 # Threat model
 My threat model is based on four simple goals:
@@ -51,7 +51,7 @@ GrapheneOS provides much stronger **permission management** than stock Android. 
 
 | Permission control          | Storage Scopes              |
 | --------------------------- | --------------------------- |
-| ![graphene2](graphene2.png) | ![graphene3](graphene3.png) |
+| ![graphene2](graphene2.jpeg) | ![graphene3](graphene3.jpeg) |
 
 **Sandboxed Google Play** is another important feature. I can install Google Play services for compatibility, but they run like normal apps instead of having system-level privileges. This means apps that depend on Google services usually work, but Google itself does not get deep access to the system like on stock Android.
 
@@ -92,10 +92,10 @@ I use MBBank and Vietcombank, two popular banks in Vietnam, as well as the MoMo 
 
 | | |
 | --- | --- |
-| ![graphene4](graphene4.jpg) | ![graphene5](graphene5.png) |
+| ![graphene4](graphene4.jpg) | ![graphene5](graphene5.jpeg) |
 
 In addition, there is the VNeID app, which is famous for being difficult to bypass root checking. It also works without any problems.
-![graphene6](graphene6.png)
+![graphene6](graphene6.jpeg)
 
 However, only Google Wallet does not work (because it does not pass Play Integrity, and Google does not like custom ROMs). That said, I do not really need Google Wallet, especially since in Vietnam and Japan, QR code payments are far more common, and I also prefer using physical cards anyway.
 
@@ -106,12 +106,12 @@ Battery life is quite bad. This is likely caused by a combination of factors:
 - Less aggressive vendor power optimizations compared to stock ROMs
 
 I will try to fix it soon.
-![battery](battery.png)
+![battery](battery.jpeg)
 
 # My settings
 | | | |
 |---|---|---|
-| ![graphene7](graphene7.png) | ![graphene8](graphene8.png) | ![graphene9](graphene9.png) |
+| ![graphene7](graphene7.jpeg) | ![graphene8](graphene8.jpeg) | ![graphene9](graphene9.jpeg) |
 
 # Conclusion
 So far, I have been quite satisfied with GrapheneOS. It is exactly what I was looking for, and it feels better than anything I have used on a smartphone before.
@@ -124,4 +124,4 @@ For me, this trade-off is reasonable. Using GrapheneOS has made me more intentio
 
 Overall, if you are looking for a smartphone operating system that prioritizes security and privacy, and if you are willing to give up some convenience and visual polish, GrapheneOS is worth trying. For my personal use case, it has been a good choice and I do not regret switching to it.
 
-![helo](snowden.png)
+![helo](snowden.jpeg)

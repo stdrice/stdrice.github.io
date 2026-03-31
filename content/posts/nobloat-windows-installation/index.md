@@ -5,7 +5,7 @@ date: '2025-08-27T12:51:29+07:00'
 tags: ["windows", "os", "privacy", "bloatware", "guide"]
 draft: false
 cover:
-    image: "binbows.png"
+    image: "binbows.jpeg"
     responsiveImage: true
 ---
 
@@ -41,7 +41,7 @@ Btw, you can get these Windows editions here: [massgrave.dev](https://massgrave.
 
 2. **Skip Microsoft account login** if you want a clean local user, and don't want to fuck up your user folder.
 3. On privacy settings screen, **disable all options**.
-![img2](windows-oobe-privacy-settings.png)
+![img2](windows-oobe-privacy-settings.jpeg)
 
 # Post-installation tweaks
 ## Basic

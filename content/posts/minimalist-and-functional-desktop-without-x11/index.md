@@ -5,7 +5,7 @@ date: '2026-02-21T13:38:21+07:00'
 tags: ["linux", "wm", "wayland"]
 draft: false
 cover:
-    image: "a.png"
+    image: "a.jpeg"
     responsiveImage: true
 ---
 
@@ -36,20 +36,20 @@ This separation keeps the base system clean and tightly integrated with the dist
 # Desktop components
 ## Status Bar
 Instead of `swaybar`, the standard status bar which comes with Sway, I use [Waybar](https://github.com/Alexays/Waybar). Waybar is highly customizable and flexible, which makes it easy to tailor the bar to my needs. I chose it because other options are either too complex to configure or not available in the official repositories.
-![bar](bar.png)
+![bar](bar.jpeg)
 
 ## Launcher/Menu
 [Rofi](https://github.com/davatorium/rofi) is an application launcher and menu originally designed for X11, and it now supports Wayland as well. I chose it mainly because I already had an existing Rofi configuration, so I could reuse it without changing my workflow.
-![launcher](launcher.png)
+![launcher](launcher.jpeg)
 
 ## Notification
 Notifications are handled by [Mako](https://github.com/emersion/mako). It is small, unobtrusive, and integrates cleanly with Wayland, providing just enough feedback without turning notifications into visual noise.
-![notify](notify.png)
+![notify](notify.jpeg)
 
 ## Lockscreen
 I use `swaylock-effects` for lockscreen.
 TODO
-![lock](lock.png)
+![lock](lock.jpeg)
 
 ## Screenshot and screen sharing
 Screenshots are handled by [grim](https://sr.ht/~emersion/grim) together with [slurp](https://sr.ht/~emersion/slurp), allowing fast region-based captures directly on Wayland.\
@@ -61,26 +61,26 @@ For screen sharing to work on Sway/Wayland, `xdg-desktop-portal-wlr` is required
 
 My default shell is `zsh`. I do not use any frameworks like [oh-my-zsh](https://ohmyz.sh); instead, I configured it from scratch.
 
-![terminal](terminal.png)
+![terminal](terminal.jpeg)
 
 ## File manager
 For file management, I use [ranger](https://github.com/ranger/ranger) and [Nemo](https://github.com/linuxmint/nemo). Ranger covers most tasks in the terminal with a keyboard-driven workflow, while Nemo is used when a graphical file manager is more convenient.
-![file manager](file-manager.png)
+![file manager](file-manager.jpeg)
 
 ## Text editor
 My main editor is [Neovim](https://neovim.io), which I use for editing configuration files, writing, and coding. It integrates well with a terminal-centric workflow and avoids unnecessary distractions.
-![nvim](nvim.png)
+![nvim](nvim.jpeg)
 
 ## Terminal workflow
 For session management and multitasking inside the terminal, I use [tmux](https://github.com/tmux/tmux). It allows me to split windows, manage multiple sessions, and keep long-running tasks alive.
 
 For Git workflows, I use [lazygit](https://github.com/jesseduffield/lazygit), which provides a clean and efficient interface for common Git operations without leaving the keyboard.
-![helo](helo.png)
+![helo](helo.jpeg)
 
 ## Media
 For media playback, I use [cmus](https://cmus.github.io/) for music, [mpv](https://mpv.io) for video and general media, and [imv](https://sr.ht/~exec64/imv/) for viewing images. All three are lightweight and integrate well with a keyboard-driven workflow.
-![cmus](cmus.png)
-![mpv](mpv.png)
+![cmus](cmus.jpeg)
+![mpv](mpv.jpeg)
 
 ## Calendar
 For personal organization, I use [calcurse](https://calcurse.org/) as a simple calendar and task manager integrated into the terminal workflow. I have configured calcurse to work with CalDAV, so it can synchronize events with external calendar services.
@@ -98,7 +98,7 @@ For daily work and study, I use a small set of desktop applications installed vi
 For web browsing, I use [Brave](https://brave.com) because Chromium-based browsers tend to offer better performance and stronger sandboxing compared to Gecko/Firefox.\
 I also disable unnecessary built-in features such as Brave Wallet, Brave Ads/Reward, Leo AI, Tor and Safe Browsing.\
 Brave Shields is good enough so I don't have to install uBlock Origin.
-![brave](brave.png)
+![brave](brave.jpeg)
 
 Extensions I use:
 - [h264-ify](https://chromewebstore.google.com/detail/h264ify/aleakchihdccplidncghkekgioiakgal)
@@ -106,15 +106,15 @@ Extensions I use:
 
 ## Email
 Email is handled by [Thunderbird](https://thunderbird.net), which provides a full-featured mail client without relying on a web interface.
-![thunderbird](thunderbird.png)
+![thunderbird](thunderbird.jpeg)
 
 ## Note-taking
 I use [Obsidian](https://obsidian.md) because it is the only option that is cross-platform, Markdown-based, and powerful for knowledge management.
-![obsidian](obsidian.png)
+![obsidian](obsidian.jpeg)
 
 ## Recording and streaming
 For recording and streaming, I use [OBS Studio](https://obsproject.com), which works reliably with PipeWire and Wayland.
-![obs](obs.png)
+![obs](obs.jpeg)
 
 ## Other
 - [Anki](https://apps.ankiweb.net)
@@ -124,4 +124,4 @@ For recording and streaming, I use [OBS Studio](https://obsproject.com), which w
 
 # Etc.
 Everthing else can be found in my [dotfiles repo](https://github.com/stdrice/dotfiles).
-![a](a.png)
+![a](a.jpeg)
