@@ -12,7 +12,7 @@
 ```
 git clone https://github.com/stdrice/stdrice.github.io
 cd stdrice.github.io
-git clone https://github.com/adityatelange/hugo-PaperMod themes/PaperMod --depth=1
+git submodule update --init --recursive
 ```
 - Run locally
 ```
