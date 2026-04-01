@@ -33,7 +33,7 @@ My setup wasn’t perfect though. The USB-C port was getting blocked by the scre
 ![keyboard](keyboard.jpg)
 
 ## Photography
-Lately, I’ve also been getting into photography. I can’t really afford a proper camera yet, but I always have my phone with me. With the [ProShot app](https://play.google.com/store/apps/details?id=com.riseupgames.proshot2), it’s actually “good enough” to use like a camera.
+Lately, I’ve also been getting into photography. I can’t really afford a proper camera yet, but I always have my phone with me. With the [ProShot app](https://play.google.com/store/apps/details?id=com.riseupgames.proshot2), I can basically turn my phone into a "good enough" camera.
 
 | | |
 | --- | --- |
@@ -48,10 +48,10 @@ I’ll probably get a proper camera soon.
 I also ended up dual-booting Windows after a long time using Linux full-time. The main reason is I need apps like Lightroom and FL Studio, and Linux alternatives just aren’t good enough for what I want.
 ![laptop](laptop.jpg)
 
+Read more: [No-bloatware Windows Installation](/posts/nobloat-windows-installation)
+
 # Internet
 I quit Discord and paused several online relationships because of conflicts. Right now, I’m only keeping a few connections that I actually think are worth it.
-
-At the same time, in my real-life persona, I’ve been using more mainstream social media. It’s for different reasons, and it’s completely separate from this one.
 
 At some point, I might just disconnect from the internet for a while and focus more on real life.
 
@@ -64,4 +64,4 @@ I’m also trying to avoid wasting money on things that don’t really matter an
 
 Lately, one of the simplest things I enjoy is just watching my bank account slowly grow. Maybe it sounds dumb, but it’s a small kind of joy for me right now.
 
-Happy April Fools, I guess. Nothing here is a joke though.
+Happy April Fools!, I guess...
