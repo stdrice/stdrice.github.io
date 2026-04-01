@@ -63,5 +63,3 @@ I’m slowly going back to a more minimal lifestyle. Not for aesthetics, just fo
 I’m also trying to avoid wasting money on things that don’t really matter anymore: subscriptions, random hobbies, stuff like that, etc.
 
 Lately, one of the simplest things I enjoy is just watching my bank account slowly grow. Maybe it sounds dumb, but it’s a small kind of joy for me right now.
-
-Happy April Fools!, I guess...
