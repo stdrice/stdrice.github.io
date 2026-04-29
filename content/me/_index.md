@@ -4,7 +4,7 @@ title: 'About me'
 
 # Introdiction
 - stdrice
-- tech paranoid, but also tech enthusiast, music lover (def not an audiophile), otaku(?)
+- tech paranoid, but also tech enthusiast, music lover, otaku(?)
 - en / vi / jp(soon)
 
 # Contact
@@ -41,8 +41,8 @@ Other platforms:
     - Doujin / indie
     - Game soundtracks
 - Favorite artists: 
-    - Electronic: Dustvoxx, HARDCORE TANO*C, Skrillex, Fred again.., tn-shi, Porter Robinson, PSYQUI, Ata_kuso, AZALI, Moe Shop
-    - J-Pop / J-Rock: TUYU, ZUTOMAYO, Ado, YOASOBI, Vaundy, Yorushika, Hikaru Utada
+    - Electronic: Dustvoxx, HARDCORE TANO*C, MEGAREX, Skrillex, Fred again.., tn-shi, Porter Robinson, PSYQUI, Ata_kuso, AZALI, Moe Shop
+    - J-Pop / J-Rock: TUYU, ZUTOMAYO, Ado, YOASOBI, Vaundy, Yorushika
     - Doujin: IOSYS, Halozy, etc.
     - Game: toby fox, Arcaea OST, Lia (Key / VisualArts), etc.
 - How I listen to music:
