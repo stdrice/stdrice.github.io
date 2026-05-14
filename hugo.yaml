@@ -10,7 +10,7 @@ params:
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
   disableThemeToggle: true
-  ShowReadingTime: true
+  ShowReadingTime: false
   ShowFullTextinRSS: true
   fuseOpts:
     isCaseSensitive: false
