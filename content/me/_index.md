@@ -3,15 +3,12 @@ title: 'About me'
 ---
 
 # Introdiction
-- stdrice
+- name: stdrice
 - tech paranoid, but also tech enthusiast, music lover, otaku(?)
 - en / vi / jp(soon)
 
 # Contact
 - Mail: [stdrice@disroot.org](mailto:stdrice@disroot.org) ([Use GPG whenever possible](/stdrice_public.asc))
-- ~~Discord: `stdrice_`~~
-
-**Edit Mar-26-2026**: No more Discord, just contact me via Email.
 
 Other platforms:
 - [GitHub](https://github.com/stdrice)
@@ -21,14 +18,12 @@ Other platforms:
 - [Music](#music)
 - [Tech](#tech)
 - Anime, manga, Japanese culture
-- Audio, hi-fi
+- Audio
 - Photography
-- Computer hardware
-- Open-source software
-- Privacy, security, anonymity
+- Computer in general
+- Privacy, security, anonymity...
 
 # Tech
-- Use [Arch Linux](https://archlinux.org) and [GrapheneOS](https://grapheneos.org) as main OS.
 - Prefer FOSS (Free & Open-Source Software) and privacy-friendly tools whenever possible.
 - Generally skeptical of big tech.
 - Not really a fan of *AI*.
@@ -45,10 +40,6 @@ Other platforms:
     - J-Pop / J-Rock: TUYU, ZUTOMAYO, Ado, YOASOBI, Vaundy, Yorushika
     - Doujin: IOSYS, Halozy, etc.
     - Game: toby fox, Arcaea OST, Lia (Key / VisualArts), etc.
-- How I listen to music:
-    - Into audio gear, but not an audiophile.
-    - Local files > streaming; discover music mostly on YouTube.
-    - Rarely follow music trends.
 
 # Preferences / Opinions
 - Dislike mainstream social media and internet clout culture.
