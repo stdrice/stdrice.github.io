@@ -49,6 +49,4 @@ Other platforms:
 - I am not a trustworthy person, and you probably shouldn't trust anyone on the internet.
 
 # Misc
-- My favorite color is **red**.
-- I have **deuteranopia (red-green colorblindness)** and **ADHD**, which is really annoying in daily life.
 - My personality in real life is quite different from how I appear online.
