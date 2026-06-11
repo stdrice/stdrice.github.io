@@ -187,3 +187,15 @@ After cleaning Windows, you’ll probably want to replace Microsoft’s built-in
 | **Notepad**      | Notepad / WordPad          | Classic Notepad, [Notepad++](https://notepad-plus-plus.org)                                                                                |
 | **Compression**  | Built-in zip (limited)     | [7-Zip](https://7-zip.org), [PeaZip](https://peazip.github.io), [Nanazip](https://nanazip.org)                                             |
 | **App Store**    | Microsoft Store            | [Chocolatey](https://chocolatey.org), Winget (package managers)                                                                            |
+
+## Installing Microsoft Store & winget on LTSC
+### LTSC 2021 and newer
+- Open **Powershell (Admin)**
+- Type
+```
+wsreset -i
+```
+- Open MS Store and update **App Installer**
+
+## LTSC 2019 and older
+- Use [kkkgo/ltsc-add-microsoftstore](https://github.com/kkkgo/ltsc-add-microsoftstore)
