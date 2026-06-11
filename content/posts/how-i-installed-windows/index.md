@@ -197,5 +197,5 @@ wsreset -i
 ```
 - Open MS Store and update **App Installer**
 
-## LTSC 2019 and older
+### LTSC 2019 and older
 - Use [kkkgo/ltsc-add-microsoftstore](https://github.com/kkkgo/ltsc-add-microsoftstore)
