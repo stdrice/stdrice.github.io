@@ -72,12 +72,10 @@ Remove-AppxProvisionedPackage -Online
 ```
 
 ### Remove Microsoft Edge
-Open **Powershell (Admin)** and type these commands
+- Use [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge)
+- Open **Powershell (Admin)** and type these commands
 ```
-$paths = @("C:\Program Files (x86)\Microsoft\Edge\Application","C:\Program Files\Microsoft\Edge\Application"); foreach ($p in $paths) { if (Test-Path $p) { $edge = Get-ChildItem $p -Directory | Sort-Object Name -Descending | Select-Object -First 1; Start-Process "$($edge.FullName)\Installer\setup.exe" "-uninstall -system-level -force-uninstall" -Wait; break } }
-
 reg add "HKLM\SOFTWARE\Microsoft\EdgeUpdate" /v DoNotUpdateToEdgeWithChromium /t REG_DWORD /d 1 /f
-
 schtasks /Change /TN "MicrosoftEdgeUpdateTaskMachineCore" /Disable
 schtasks /Change /TN "MicrosoftEdgeUpdateTaskMachineUA" /Disable
 ```
