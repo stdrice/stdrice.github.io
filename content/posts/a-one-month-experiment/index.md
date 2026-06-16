@@ -1,6 +1,6 @@
 ---
 title: "A One-Month Experiment"
-description: ""
+description: "A short experiment to decide whether to continue or archive this personal website."
 date: '2026-06-16T22:06:15+07:00'
 tags: [""]
 draft: false
