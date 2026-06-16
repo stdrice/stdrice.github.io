@@ -87,8 +87,6 @@ Stop-Service "SysMain" -Force
 Set-Service "SysMain" -StartupType Disabled
 Stop-Service "DiagTrack" -Force
 Set-Service "DiagTrack" -StartupType Disabled
-Stop-Service "WSearch" -Force
-Set-Service "WSearch" -StartupType Disabled
 Set-Service "BthAvctpSvc" -StartupType Manual
 Stop-Service "TrkWks" -Force
 Set-Service "TrkWks" -StartupType Disabled
@@ -167,10 +165,19 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize" /v E
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v TaskbarBadges /t REG_DWORD /d 0 /f
 ```
 
-## Disable startup delay
+## Misc tweaks
 Open **Powershell (Admin)** and type these commands
 ```
+# Disable startup delay
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Serialize" /v StartupDelayInMSec /t REG_DWORD /d 0 /f
+
+# Disable AutoPlay/AutoRun (for better security)
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v NoDriveTypeAutoRun /t REG_DWORD /d 255 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v NoDriveTypeAutoRun /t REG_DWORD /d 255 /f
+
+# Disable Windows Search
+Stop-Service "WSearch" -Force
+Set-Service "WSearch" -StartupType Disabled
 ```
 
 # Recommended software alternatives

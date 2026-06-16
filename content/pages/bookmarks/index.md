@@ -12,7 +12,7 @@ Not sorted.
 - [マリウス](https://xn--gckvb8fzb.com)
 - [rohsa](https://rohsa.gitlab.io)
 - [jvscholz](https://youtube.com/@jvscholz)
-- [k4ahr](https://me.komari.site)
+- [k4ahr](https://k4ahr.work)
 - [bihuynh78](https://bihuynh78.github.io)
 - [sizeof(cat)](https://sizeof.cat)
 - [S u y u](https://suyu.neocities.org)
