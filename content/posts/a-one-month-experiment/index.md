@@ -16,3 +16,5 @@ Right now, I’m running a simple one-month experiment to see whether this site 
 At the end of this period, I’ll decide whether to continue maintaining it or archive it based on the results of this survey.
 
 Take a quick survey here (it takes less than 30s): [tally.so/r/rjq9JN](https://tally.so/r/rjq9JN)
+
+This may or may not be the last phase of this site.
