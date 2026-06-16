@@ -14,7 +14,7 @@ There are 2 editions I want to mention:
 | Edition | Pros | Cons |
 |---------|------|------|
 | **Consumer (Home, Pro, …)** | Widely supported, latest features | Comes with ads, telemetry, shorter support lifecycle |
-| **LTSC / IoT LTSC** | Minimal bloat, no forced feature updates, support up to 10 years | Latest version is only 21H2 (some apps now require 22H2) |
+| **LTSC / IoT LTSC** | Minimal bloat, no forced feature updates, support up to 10 years | Latest Windows 10 build is only 21H2 (some apps now require 22H2) |
 
 - If your software runs fine on old builds, go with **IoT LTSC**. Otherwise, stick with Consumer and debloat it manually.  
 

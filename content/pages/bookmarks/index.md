@@ -12,7 +12,7 @@ Not sorted.
 - [マリウス](https://xn--gckvb8fzb.com)
 - [rohsa](https://rohsa.gitlab.io)
 - [jvscholz](https://youtube.com/@jvscholz)
-- [k4ahr](https://k4ahr.work)
+- [k4ahr](https://me.komari.site)
 - [bihuynh78](https://bihuynh78.github.io)
 - [sizeof(cat)](https://sizeof.cat)
 - [S u y u](https://suyu.neocities.org)
@@ -24,6 +24,21 @@ Not sorted.
 - [nyaa](https://nyaa.si): anime-related torrent tracker
 - [2yxa.mobi](https://2yxa.mobi): watch yt on old phones
 - [hiax sharing](https://docs.google.com/forms/d/e/1FAIpQLSe92G1gnkAj-tGEPUDG9sik3qigCttq08E9fODUa3NijUUxqw/viewform): music making resources
+
+# Japanese
+## Guides
+- [TheMoeWay](https://learnjapanese.moe/)
+- [Tatsumoto](https://tatsumoto.neocities.org/)
+
+## Grammar
+- [Tae Kim grammar guide](https://gohoneko.neocities.org/grammar/taekim)
+- [ichi.moe](https://ichi.moe/)
+
+## Vocabulary
+- [Kaishi 1.5k Anki deck](https://ankiweb.net/shared/info/1196762551)
+
+## Dictionaries
+- [Jisho.org](https://jisho.org/)
 
 # osu!
 ## Skins
