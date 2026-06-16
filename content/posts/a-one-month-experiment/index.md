@@ -11,6 +11,10 @@ cover:
 
 I’ve been running this website for over 4 years. It started as a place for me to learn web development, and later became somewhere I write and share my thoughts.
 
+I don’t actively share it anywhere. Most of the people who visit are either close friends or those who have followed it from earlier stages.
+
+Maintaining a website like this takes time and effort, more than it might seem from the outside.
+
 Right now, I’m running a simple one-month experiment to see whether this site actually has active visitors.
 
 At the end of this period, I’ll decide whether to continue maintaining it or archive it based on the results of this survey.
