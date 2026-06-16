@@ -5,7 +5,7 @@ date: '2026-06-16T22:06:15+07:00'
 tags: [""]
 draft: false
 cover:
-    image: ""
+    image: "a.jpg"
     responsiveImage: true
 ---
 
