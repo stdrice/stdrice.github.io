@@ -24,6 +24,7 @@ Other platforms:
 - Privacy, security, anonymity...
 
 # Tech
+- Appreciate enthusiast-driven companies and products.
 - Prefer FOSS (Free & Open-Source Software) and privacy-friendly tools whenever possible.
 - Generally skeptical of big tech.
 - Not really a fan of *AI*.
