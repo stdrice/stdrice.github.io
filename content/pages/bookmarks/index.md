@@ -13,7 +13,7 @@ Not sorted.
 - [Ivon's Blog](https://ivonblog.com/en-us/)
 - [rohsa](https://rohsa.gitlab.io)
 - [jvscholz](https://youtube.com/@jvscholz)
-- [k4ahr](https://komari.site)
+- [k4ahr](https://me.komari.site)
 - [bihuynh78](https://bihuynh78.github.io)
 - [sizeof(cat)](https://sizeof.cat)
 - [S u y u](https://suyu.neocities.org)
