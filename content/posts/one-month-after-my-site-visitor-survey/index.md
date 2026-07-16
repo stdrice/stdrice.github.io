@@ -5,7 +5,7 @@ date: '2026-07-16T15:18:03+07:00'
 tags: [""]
 draft: false
 cover:
-    image: ""
+    image: "ok.jpg"
     responsiveImage: true
 ---
 About a month ago, I added a small survey to my website to understand who visits my site, how they found it, and whether my content was useful.
