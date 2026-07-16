@@ -3,7 +3,7 @@ title: "List of tool I use for privacy and security"
 description: ""
 date: '2023-05-30T15:33:52+07:00'
 tags: [""]
-draft: true
+draft: false
 cover:
     image: ""
     responsiveImage: true
