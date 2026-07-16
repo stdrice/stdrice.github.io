@@ -9,6 +9,8 @@ cover:
     responsiveImage: true
 ---
 
+**Update 2026 Jul 16**: This post is really outdated, I don't use most of them nowadays.
+
 # System
 - [Arch Linux](https://archlinux.org): No proprietary and bloatware, very minimal
 - [LineageOS](https://lineageos.org)
