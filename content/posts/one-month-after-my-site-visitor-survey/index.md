@@ -1,6 +1,6 @@
 ---
 title: "One month after my site visitor survey"
-description: ""
+description: "What I learned from my first website visitor survey after one month."
 date: '2026-07-16T15:18:03+07:00'
 tags: [""]
 draft: false
