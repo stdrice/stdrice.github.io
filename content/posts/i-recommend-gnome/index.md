@@ -3,7 +3,7 @@ title: "I Recommend GNOME"
 description: "A short post about why I choose GNOME over KDE Plasma and tiling window managers."
 date: '2026-07-18T08:39:30+07:00'
 tags: ["linux"]
-draft: true
+draft: false
 cover:
     image: ""
     responsiveImage: true
