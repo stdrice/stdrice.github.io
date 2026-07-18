@@ -5,7 +5,7 @@ date: '2026-07-18T08:39:30+07:00'
 tags: ["linux"]
 draft: false
 cover:
-    image: ""
+    image: "gnome-screenshot.png"
     responsiveImage: true
 ---
 
