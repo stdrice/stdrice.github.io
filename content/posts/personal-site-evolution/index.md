@@ -18,6 +18,9 @@ cover:
 # August 2024
 ![aug2024](aug2024.jpeg)
 
+# October 2024
+![oct2024](oct2024.png)
+
 # December 2024
 ![dec2024](dec2024.jpeg)
 
