@@ -151,19 +151,10 @@ Disable-WindowsOptionalFeature -Online -FeatureName Printing-XPSServices-Feature
 - Choose **Ignore all** if there are any errors
 
 ## Disable visual effects
-Open **Powershell (Admin)** and type these commands
-```
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects" /v VisualFXSetting /t REG_DWORD /d 3 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v IconsOnly /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v ListviewShadow /t REG_DWORD /d 1 /f
-reg add "HKCU\Control Panel\Desktop" /v DragFullWindows /t REG_SZ /d 0 /f
-reg add "HKCU\Control Panel\Desktop" /v FontSmoothing /t REG_SZ /d 2 /f
-reg add "HKCU\Control Panel\Desktop" /v FontSmoothingType /t REG_DWORD /d 2 /f
-reg add "HKCU\Control Panel\Desktop\WindowMetrics" /v MinAnimate /t REG_SZ /d 0 /f
-reg add "HKCU\Control Panel\Desktop" /v UserPreferencesMask /t REG_BINARY /d 9012038010000000 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize" /v EnableTransparency /t REG_DWORD /d 0 /f
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v TaskbarBadges /t REG_DWORD /d 0 /f
-```
+- Search "View advanced system settings"
+- Go to *Performance* > *Settings*
+- Choose "Adjust for best performance"
+- Enable "Show thumbnails instead of icons"
 
 ## Misc tweaks
 Open **Powershell (Admin)** and type these commands
@@ -174,10 +165,6 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Serialize" /v S
 # Disable AutoPlay/AutoRun (for better security)
 reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v NoDriveTypeAutoRun /t REG_DWORD /d 255 /f
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v NoDriveTypeAutoRun /t REG_DWORD /d 255 /f
-
-# Disable Windows Search
-Stop-Service "WSearch" -Force
-Set-Service "WSearch" -StartupType Disabled
 ```
 
 # Recommended software alternatives
