@@ -151,10 +151,10 @@ Disable-WindowsOptionalFeature -Online -FeatureName Printing-XPSServices-Feature
 - Choose **Ignore all** if there are any errors
 
 ## Disable visual effects
-- Search "View advanced system settings"
-- Go to *Performance* > *Settings*
-- Choose "Adjust for best performance"
-- Enable "Show thumbnails instead of icons"
+- Search **View advanced system settings**
+- Go to **Performance** > **Settings**
+- Choose **Adjust for best performance**
+- Enable **Show thumbnails instead of icons**
 
 ## Misc tweaks
 Open **Powershell (Admin)** and type these commands
