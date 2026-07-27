@@ -5,7 +5,7 @@ date: '2026-07-27T15:27:51+07:00'
 tags: [""]
 draft: false
 cover:
-    image: "phone.jpg"
+    image: "pixell.jpg"
     responsiveImage: true
 ---
 
@@ -46,5 +46,5 @@ I usually use black tape or stickers.
 **Tape the logo**.
 | | |
 | --- | --- |
-| ![phone](phone.jpg) | ![moondrop](moondrop.jpg) |
+| ![phone](pixell.jpg) | ![moondrop](moondrop.jpg) |
 | ![laptop1](laptop1.jpg) | ![laptop2](laptop2.jpg) |
