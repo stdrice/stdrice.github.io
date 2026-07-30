@@ -1,6 +1,6 @@
 ---
 title: "Tape the Logo"
-description: "Why I tape the logos on my devices and how a small piece of tape becomes a statement against branding."
+description: "Why I tape the logos on my devices."
 date: '2026-07-27T15:27:51+07:00'
 tags: [""]
 draft: false
