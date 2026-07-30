@@ -23,6 +23,7 @@ The earbuds have a design similar to the AirPods Pro. However, they are quite la
 
 # Sound
 This earphone is tuned to JM-1 tilted aka New Meta. However, I don't like its sound. I find it is really bad at treble, has too much boost around 1-2khz, and its sound is even worse than the Space Travel 1 in some aspects.
+![graph](graph.png)
 
 But it has EQ, so I can fix the sound and play with different tunings.
 | [Blessing 2](moondrop://b1408e7a-c0a1-4985-9a83-219ee684c828) | [Lush](moondrop://8c3d47c3-d7c2-4e6b-9ef3-1fd4467fef3b) |
