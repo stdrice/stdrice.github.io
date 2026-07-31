@@ -1,5 +1,5 @@
 ---
-title: "What I Use for School Coding and Productivity"
+title: "What I Use for School, Coding and Productivity"
 description: ""
 date: '2023-05-11T13:00:58+07:00'
 tags: [""]
