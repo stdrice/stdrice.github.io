@@ -97,6 +97,8 @@ I use MBBank and Vietcombank, two popular banks in Vietnam, as well as the MoMo 
 In addition, there is the VNeID app, which is famous for being difficult to bypass root checking. It also works without any problems.
 ![graphene6](graphene6.jpeg)
 
+**Update 2026 Aug 06**: MoMo works, but can't use transfer money because face verification cannot be completed.
+
 However, only Google Wallet does not work (because it does not pass Play Integrity, and Google does not like custom ROMs). That said, I do not really need Google Wallet, especially since in Vietnam and Japan, QR code payments are far more common, and I also prefer using physical cards anyway.
 
 ## Battery
