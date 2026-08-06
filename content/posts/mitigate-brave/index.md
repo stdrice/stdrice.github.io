@@ -1,6 +1,6 @@
 ---
 title: 'Mitigate Brave'
-date: '2025-02-05T21:14:46+07:00'
+date: '2024-08-16T21:14:46+07:00'
 draft: false
 tags: ["browser", "privacy", "guide"]
 cover:
