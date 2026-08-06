@@ -2,7 +2,7 @@
 title: "De-Googling, Five years later"
 description: "A five-year reflection on de-Googling, privacy tools, and why replacing big tech with privacy startups did not solve the real problem."
 date: '2026-03-11T22:36:16+07:00'
-tags: ["privacy"]
+tags: ["privacy", "meta", "personal"]
 draft: false
 cover: 
     image: "cover.jpg"

@@ -2,7 +2,7 @@
 title: "Dell XPS 9500/9700 Undervolting"
 description: ""
 date: '2025-06-29T13:37:34+07:00'
-tags: [""]
+tags: ["guide"]
 draft: false
 cover:
     image: ""

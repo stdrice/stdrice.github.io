@@ -2,7 +2,7 @@
 title: "Hardening Smartphones"
 description: ""
 date: '2024-07-13T13:34:57+07:00'
-tags: [""]
+tags: ["android", "hardening", "privacy", "security"]
 draft: false
 cover:
     image: ""

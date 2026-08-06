@@ -2,7 +2,7 @@
 title: "One month after my site visitor survey"
 description: "What I learned from my first website visitor survey after one month."
 date: '2026-07-16T15:18:03+07:00'
-tags: [""]
+tags: ["meta", "personal"]
 draft: false
 cover:
     image: "ok.jpg"

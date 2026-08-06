@@ -1,7 +1,7 @@
 ---
 title: "Skip Counter Strike 2's Training Day"
 date: '2025-02-05T22:08:13+07:00'
-tags: ["cs2", "games", "steam"]
+tags: ["cs2", "games", "steam", "guide"]
 draft: false
 cover:
     image: "a"

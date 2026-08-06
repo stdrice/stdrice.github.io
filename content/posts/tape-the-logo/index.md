@@ -2,7 +2,7 @@
 title: "Tape the Logo"
 description: "Why I tape the logos on my devices."
 date: '2026-07-27T15:27:51+07:00'
-tags: [""]
+tags: ["personal"]
 draft: false
 cover:
     image: "pixell.jpg"
