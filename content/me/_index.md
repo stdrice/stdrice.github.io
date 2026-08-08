@@ -42,7 +42,7 @@ Other platforms:
 - Also avoid places like ~[4chan](https://4chan.org)~, ~[soyjak.party](https://soyjak.st)~ or ~[KiwiFarms](https://kiwifarms.st)~.
 - Not into idol/celebrity culture.
 - ~Not everyone deserves free speech~.
-- I am not a trustworthy person, and you probably shouldn't trust anyone on the internet.
+- **I'm not a trustworthy person, and you probably shouldn't trust anyone on the internet**.
 
 # Misc
 - My personality in real life is quite different from how I appear online.
