@@ -31,10 +31,11 @@ Other platforms:
 
 # Music
 - I listen to music based on vibe/emotion, not on specific genres.
-- Favorite genres: 
-    - Electronic: Psytrance, Hi-tech, Techno, Hardcore, DnB, Future Core, Artcore, Breakcore, ...
-    - J-Rock / J-Pop, anisong
+- Favorite genres:
+    - Ballade
+    - J-Rock / J-Pop, anisong   
     - Doujin / indie
+    - Electronic: Psytrance, Hi-tech, Techno, Hardcore, DnB, Future Core, Artcore, Breakcore, ...
     - Game soundtracks
 
 # Preferences / Opinions
