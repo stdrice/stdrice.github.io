@@ -112,6 +112,3 @@ Instead of relying on a single company to do everything correctly, the system is
 At that point I realized something.
 
 The goal was never really *de-Googling*. The real goal was **depending less on large platforms in general.**
-
-
-*Five years later, I still avoid most Google services. But the real change wasn’t the tools I switched to. It was reducing how much I depend on platforms at all.*

@@ -2,10 +2,10 @@
 title: 'About me'
 ---
 
-# Introdiction
+# Introduction
 - name: stdrice
 - tech paranoid, but also tech enthusiast, music lover, otaku(?)
-- en / vi
+- eng / vie
 
 # Contact
 - Mail: [stdrice@disroot.org](mailto:stdrice@disroot.org) ([Use GPG whenever possible](/stdrice_public.asc))
