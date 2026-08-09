@@ -10,7 +10,6 @@ cover:
 ---
 
 This is a brief guide describing how I install Arch Linux on my own systems.
-It reflects my personal workflow and preferences rather than a universal best practice.
 
 The goal is to keep the system minimal, reproducible, and easy to maintain, with disk encryption and Secure Boot support.
 
