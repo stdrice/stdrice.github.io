@@ -166,6 +166,9 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Serialize" /v S
 # Disable AutoPlay/AutoRun (for better security)
 reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v NoDriveTypeAutoRun /t REG_DWORD /d 255 /f
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v NoDriveTypeAutoRun /t REG_DWORD /d 255 /f
+
+# Disable Fullscreen optimizations for all apps
+setx __COMPAT_LAYER "DISABLEDXMAXIMIZEDWINDOWEDMODE HIGHDPIAWARE" /m
 ```
 
 # Recommended software alternatives
