@@ -3,6 +3,6 @@ title: ''
 ---
 
 # ようこそ!
-![a](/a.jpg)
+![a](/a.png)
 
 &nbsp;
