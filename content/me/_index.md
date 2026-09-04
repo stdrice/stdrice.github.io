@@ -17,7 +17,7 @@ For my personal preferences and opinions: I dislike mainstream social media and 
 **I'm not a person you should blindly trust, and you probably shouldn't trust anyone on the Internet.**
 
 # Contact
-My email is [stdrice (at) disroot.org](mailto:stdrice@disroot.org), and [you should use GPG whenever possible](/stdrice_public.asc)
+My email is [stdrice01 (at) gmail.com](mailto:stdrice01@gmail.com), and [you should use GPG whenever possible](/stdrice_public.asc)
 
 I'm also available on other platforms:
 - [GitHub](https://github.com/stdrice)
