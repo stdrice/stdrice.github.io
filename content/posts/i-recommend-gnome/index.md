@@ -9,6 +9,9 @@ cover:
     responsiveImage: true
 ---
 
+**Update 2026 Sep 4**: Although I no longer use GNOME as my daily driver for various reasons, I still recommend it, and everything I said in this article still stands.
+
+
 In 2026, many desktop environments and window managers are evolving at an incredible pace, such as KDE Plasma, COSMIC, Hyprland, and more.
 
 At the same time, GNOME is probably the most criticized desktop environment. Everywhere I go, I see people complaining about GNOME.
