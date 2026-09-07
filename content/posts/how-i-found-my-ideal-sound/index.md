@@ -3,7 +3,7 @@ title: "How I found my ideal sound"
 description: "A personal exploration of what 'neutral' sound means to me, and how I found the sound that feels most natural to my ears."
 date: '2026-09-07T12:55:43+07:00'
 tags: ["audio"]
-draft: true
+draft: false
 cover:
     image: "8.png"
     responsiveImage: true
@@ -48,7 +48,7 @@ And that's how I arrived at my own target curve.
 # Porting to 711
 IEC 60318-4 is still the most widely used measurement system in the headphone hobby and audio industry. So even though it has several limitations, it is still useful as a reference.
 
-After doing the necessary calculations, I was able to create the following target for 711
+After doing some calculations, I was able to create the following target for 711
 ![9](9.png)
 
 # How I use it and my personal preference
