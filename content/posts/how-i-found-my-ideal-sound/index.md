@@ -42,6 +42,9 @@ Next, I apply **a downward tilt** to make the sound warmer and more natural. Dif
 After a lot of testing and listening, I also found that the ear gain around 3 kHz still sounded slightly shouty to me. So I **reduced 3kHz by 1dB** to reduce that shoutiness.
 ![7](7.png)
 
+I also made a few small adjustments for more natural sound to my ears.
+![14](14.png)
+
 And that's how I arrived at my own target curve.
 ![8](8.png)
 
