@@ -33,7 +33,7 @@ Because of this, the 5128 Diffuse Field response does not have the same extremel
 ![4](4.png)
 
 # How I found my ideal sound
-First, I use **JM-1 as my baseline**. JM-1 is **an adjusted version of Diffuse Field** designed to produce a response that better represents how a real human ear perceives sound.
+First, I use **JM-1 as my baseline**. JM-1 is **an adjusted version of 5128 Diffuse Field** designed to produce a response that better represents how a real human ear perceives sound.
 ![5](5.png)
 
 Next, I apply **a downward tilt** to make the sound warmer and more natural. Diffuse Field represents a flat response in a highly reflective environment, while a downward tilt is more appropriate for a response intended to sound natural in more typical listening environments.
