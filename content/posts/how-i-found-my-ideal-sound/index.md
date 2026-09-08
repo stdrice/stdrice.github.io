@@ -1,6 +1,6 @@
 ---
 title: "How I found my ideal sound"
-description: "A personal exploration of what 'neutral' sound means to me, and how I found the sound that feels most natural to my ears."
+description: "A short post of how I found the sound that feels most natural to my ears."
 date: '2026-09-07T12:55:43+07:00'
 tags: ["audio"]
 draft: false
