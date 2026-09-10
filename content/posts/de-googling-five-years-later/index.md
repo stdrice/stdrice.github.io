@@ -16,7 +16,7 @@ So I decided to try something many people in the privacy community were talking 
 
 **De-Google**
 
-Five years later, the result looks very different from what I originally expected.
+5 years later, the result looks very different from what I originally expected.
 
 # Phase 1: Idealism
 Like many people, my first attempt at de-Googling was straightforward.

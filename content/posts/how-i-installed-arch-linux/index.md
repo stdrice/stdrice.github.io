@@ -9,6 +9,8 @@ cover:
     responsiveImage: true
 ---
 
+**Update 2026 Sep 10**: I don't use Arch Linux anymore.
+
 This is a brief guide describing how I install Arch Linux on my own systems.
 
 The goal is to keep the system minimal, reproducible, and easy to maintain, with disk encryption and Secure Boot support.

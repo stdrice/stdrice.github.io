@@ -9,6 +9,8 @@ cover:
     responsiveImage: true
 ---
 
+**Update 2026 Sep 10**: I sold my iPhone to switch to a Google Pixel for GrapheneOS.
+
 I recently switched to the iPhone. While it’s often marketed as “secure” and “privacy‑friendly” compared to Android, the reality is more nuanced. iOS has strong sandboxing, solid memory protections, and a tightly controlled app ecosystem, but it also contains layers of telemetry, hidden settings, cloud‑centric defaults, and convenience features that quietly expand your attack surface.
 
 This post focuses on turning iOS into a minimal, hardened, privacy‑respecting environment.
@@ -272,8 +274,3 @@ Because iOS doesn't have many fully open-source apps like Android, these are som
 - Install minimal apps, remove unused apps.
 - Prefer offline or open‑source tools when possible.
 - Use PWA/Web apps instead of installed apps whenever possible.
-
-# Conclusion
-iPhones are already secure (?), but the defaults leave room for tracking and leaks. By doing following things above, you can make your phone as safe as possible.
-
-It’s not just about settings, being careful with networks, connections, and the apps you install matters a lot. With these steps, your iPhone can be a highly private and secure device.

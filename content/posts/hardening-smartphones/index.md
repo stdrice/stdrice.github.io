@@ -9,7 +9,7 @@ cover:
     responsiveImage: true
 ---
 
-**Update 2026 Aug 6**: This post is really outdated
+**Update 2026 Aug 6**: This post is really outdated.
 
 # Table of Contents
 - [Choosing a phone to harden](#choosing-a-phone-to-harden)
