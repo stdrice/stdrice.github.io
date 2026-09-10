@@ -10,6 +10,8 @@ cover:
 ---
 
 # Frequency Response
+To understand this post, you will need to know what is "frequency response" or "graph".
+
 Frequency response is the squiggly line that you can see below. It describes the sound pressure level produced by headphones or IEMs at different frequencies within the human audible range.
 ![1](1.png)
 
