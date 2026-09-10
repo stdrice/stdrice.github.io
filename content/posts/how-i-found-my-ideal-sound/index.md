@@ -38,7 +38,7 @@ Because of this, the 5128 Diffuse Field response does not have the same extremel
 First, I use **JM-1 as my baseline**. JM-1 is **an adjusted version of 5128 Diffuse Field** designed to produce a response that better represents how a real human ear perceives sound.
 ![5](5.png)
 
-Next, I apply **a downward tilt** to make the sound warmer and more natural. Diffuse Field represents a flat response in a highly reflective environment, while a downward tilt is more appropriate for a response intended to sound natural in more typical listening environments.
+Next, I apply **a downtilt** (-1dB/oct) to make the sound warmer and more natural. Diffuse Field represents a flat response in a highly reflective environment, while a downtilt is more appropriate for a response intended to sound natural in more typical listening environments.
 ![6](6.png)
 
 After a lot of testing and listening, I also found that the ear gain around 3 kHz still sounded slightly shouty to me. So I **reduced 3kHz by 1dB** to reduce that shoutiness.
