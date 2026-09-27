@@ -16,6 +16,7 @@ Not sorted.
 - [jvscholz](https://youtube.com/@jvscholz)
 - [k4ahr](https://me.komari.site)
 - [bihuynh78](https://bihuynh78.github.io)
+- [gabrielbui](https://gabrielbui.online)
 - [sizeof(cat)](https://sizeof.cat)
 - [S u y u](https://suyu.neocities.org)
 
