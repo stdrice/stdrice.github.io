@@ -17,7 +17,7 @@ Not sorted.
 - [k4ahr](https://me.komari.site)
 - [bihuynh78](https://bihuynh78.github.io)
 - [gabrielbui](https://gabrielbui.online)
-- [sizeof(cat)](https://sizeof.cat)
+- [sizeof(cat)](https://sizeof.cat) ([mirror](https://sizeof.arisuchan.xyz))
 - [S u y u](https://suyu.neocities.org)
 
 # Media
